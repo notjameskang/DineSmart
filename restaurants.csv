@@ -1,0 +1,1703 @@
+Restaurant Name,cuisine,city,state,Rating,Price Range
+Bistro L'Hermitage,Asian,Roanoke,Virginia,3.8,$$$
+Blue Talon Bistro,Vegan,Lynchburg,Virginia,4.1,$
+The Southern Inn,French,Alexandria,Virginia,4,$
+Alamo Drafthouse,American,Alexandria,Virginia,3.9,$$$
+Vola's Dockside Grill,Vegan,Williamsburg,Virginia,4.6,$$$$
+The Roosevelt,Mexican,Arlington,Virginia,3.9,$$$$
+The Southern Inn,Vegan,Williamsburg,Virginia,4.4,$$$$
+Iron Horse Restaurant,Italian,Arlington,Virginia,3.7,$$
+Le Yaca,Mexican,Fairfax,Virginia,3.9,$$$
+Pho 75,Italian,Richmond,Virginia,4.9,$
+Blue Ridge Grill,Asian,Norfolk,Virginia,3.8,$$$$
+Blue Talon Bistro,Italian,Harrisonburg,Virginia,3.8,$$
+Peter Chang,Seafood,Roanoke,Virginia,4.1,$$$
+The Wine Kitchen,Italian,Harrisonburg,Virginia,4.4,$$$$
+The Fat Canary,Italian,Arlington,Virginia,4,$$$
+The Local,Asian,Charlottesville,Virginia,3.7,$$
+Café Milano,Mexican,Arlington,Virginia,3.8,$
+Joe's Steakhouse,Italian,Richmond,Virginia,4.5,$$
+The Red Hen,Asian,Chesapeake,Virginia,4.5,$
+Alewife,American,Charlottesville,Virginia,3.8,$
+Tides Inn,American,Harrisonburg,Virginia,5,$$$
+The Fat Canary,Vegan,Lynchburg,Virginia,4,$
+Mama J's Kitchen,American,Norfolk,Virginia,4.5,$
+Tides Inn,Asian,Williamsburg,Virginia,3.6,$$
+Bistro L'Hermitage,American,Arlington,Virginia,4.4,$$
+Joe's Steakhouse,Vegan,Arlington,Virginia,4.4,$$$$
+Blue Ridge Grill,Seafood,Newport News,Virginia,3.9,$
+L'Auberge Chez François,Vegan,Fairfax,Virginia,4.4,$$$
+Oro Azteca,Italian,Alexandria,Virginia,4.6,$$$
+The Inn at Little Washington,Asian,Richmond,Virginia,4.4,$$$
+The Mill Street Grill,American,Fredericksburg,Virginia,4.4,$$$
+Pho 75,Seafood,Fredericksburg,Virginia,4.5,$$
+Café Milano,Vegan,Blacksburg,Virginia,4.8,$
+The Inn at Little Washington,French,Virginia Beach,Virginia,4.9,$$
+Blue Talon Bistro,Asian,Chesapeake,Virginia,4.9,$
+L'Auberge Chez François,Seafood,Williamsburg,Virginia,4.3,$$$$
+The Inn at Little Washington,Mexican,Chesapeake,Virginia,4.9,$
+The Cellar,Mexican,Lynchburg,Virginia,3.8,$$$
+Blue Talon Bistro,Mexican,Virginia Beach,Virginia,4.8,$
+The Cellar,French,Chesapeake,Virginia,4.7,$
+The Southern Inn,American,Virginia Beach,Virginia,4.2,$
+The Wine Kitchen,Vegan,Norfolk,Virginia,4.4,$$$$
+The Red Hen,Asian,Charlottesville,Virginia,3.9,$$$
+The Red Hen,Mexican,Roanoke,Virginia,4.9,$$$
+The Mill Street Grill,Mexican,Norfolk,Virginia,3.9,$$
+Alewife,Vegan,Blacksburg,Virginia,3.7,$$
+The River and Rail,Vegan,Virginia Beach,Virginia,4.3,$$$$
+The Local,Seafood,Lynchburg,Virginia,4.2,$$$
+The Cellar,Vegan,Roanoke,Virginia,4.8,$$$
+The River and Rail,American,Blacksburg,Virginia,4,$$$$
+The Cellar,Asian,Newport News,Virginia,3.6,$$$$
+The Waterman’s Crab House,Asian,Roanoke,Virginia,4.9,$$$
+Vola's Dockside Grill,Seafood,Newport News,Virginia,4.2,$$$
+The Waterman’s Crab House,American,Newport News,Virginia,4.6,$$
+Alamo Drafthouse,Seafood,Fairfax,Virginia,4.7,$$$
+The Local,French,Norfolk,Virginia,4,$$$$
+Matchbox,American,Chesapeake,Virginia,3.7,$$$$
+The Wine Kitchen,French,Fredericksburg,Virginia,4.2,$$$$
+Alewife,American,Williamsburg,Virginia,3.6,$$
+The Roosevelt,American,Richmond,Virginia,4.4,$$$$
+The Local,American,Norfolk,Virginia,4.2,$$
+The Southern Inn,Seafood,Charlottesville,Virginia,3.5,$$$$
+Fleurie Restaurant,Seafood,Lynchburg,Virginia,3.5,$
+Bellissimo,Vegan,Fredericksburg,Virginia,4.7,$$
+The Mellow Mushroom,Asian,Charlottesville,Virginia,4.2,$$$
+The Palms,Vegan,Fairfax,Virginia,4.8,$$
+Café Milano,Seafood,Norfolk,Virginia,4.2,$$
+Carlyle,Italian,Fredericksburg,Virginia,4.3,$$$$
+The Cellar,Mexican,Virginia Beach,Virginia,4.6,$
+Peter Chang,Italian,Blacksburg,Virginia,3.8,$$$$
+The Waterman’s Crab House,Mexican,Arlington,Virginia,4.8,$$
+Mama J's Kitchen,Asian,Blacksburg,Virginia,4,$$
+The Shack,Asian,Williamsburg,Virginia,4.5,$$
+Boathouse at Rocketts Landing,Mexican,Virginia Beach,Virginia,4.7,$$$
+The River and Rail,Vegan,Lynchburg,Virginia,3.7,$$$
+Peter Chang,Mexican,Fredericksburg,Virginia,4.8,$
+Bellissimo,Mexican,Newport News,Virginia,4.5,$$$$
+Le Yaca,Italian,Williamsburg,Virginia,4.9,$
+Vola's Dockside Grill,Mexican,Williamsburg,Virginia,4.9,$$
+Bistro L'Hermitage,Mexican,Blacksburg,Virginia,4.7,$$
+The Roosevelt,Seafood,Newport News,Virginia,3.6,$$
+Blue Ridge Grill,Mexican,Newport News,Virginia,4.2,$$
+The Fat Canary,American,Williamsburg,Virginia,4.6,$$$
+Carlyle,Mexican,Chesapeake,Virginia,4.7,$
+Cobalt Grille,Vegan,Arlington,Virginia,4.3,$
+Oro Azteca,Seafood,Blacksburg,Virginia,4.9,$
+The Red Hen,Italian,Norfolk,Virginia,4.6,$$$$
+Zaytinya,Asian,Newport News,Virginia,4.7,$$$
+Vola's Dockside Grill,French,Alexandria,Virginia,4.5,$
+The Wine Kitchen,Vegan,Blacksburg,Virginia,4.1,$$$$
+Alewife,Asian,Lynchburg,Virginia,4.5,$
+The Shack,Asian,Arlington,Virginia,4.4,$$$
+The Southern Inn,Asian,Fredericksburg,Virginia,4.9,$$$
+Boathouse at Rocketts Landing,Asian,Virginia Beach,Virginia,4.4,$$$$
+Blue Talon Bistro,Mexican,Lynchburg,Virginia,3.9,$$$
+Fleurie Restaurant,French,Fredericksburg,Virginia,4.9,$$
+The Local,Asian,Fredericksburg,Virginia,3.6,$$$$
+Café Milano,American,Richmond,Virginia,4,$$
+The Inn at Little Washington,Italian,Fairfax,Virginia,4.8,$$
+Tides Inn,French,Blacksburg,Virginia,3.6,$
+Blackwall Hitch,Seafood,Bethesda,Maryland,4.5,$$
+La Tavola,Seafood,Cumberland,Maryland,3.7,$$$$
+Gertrude's,French,Frederick,Maryland,4.5,$$
+Mission BBQ,Asian,Bethesda,Maryland,4.2,$$$$
+Chart House,American,Silver Spring,Maryland,3.6,$$$$
+Mission BBQ,French,Baltimore,Maryland,5,$$$$
+Blackwall Hitch,Vegan,Rockville,Maryland,3.8,$$$
+Cantler's Riverside Inn,Vegan,Hagerstown,Maryland,3.5,$
+Iron Rooster,Vegan,Ellicott City,Maryland,4.8,$$
+The Crab Claw,Seafood,Gaithersburg,Maryland,3.6,$$$$
+Blue Moon Café,Vegan,Hagerstown,Maryland,3.7,$$$$
+City Café,Vegan,Rockville,Maryland,4.7,$$
+Vin 909,Italian,Ellicott City,Maryland,4,$
+Woodmont Grill,Seafood,Bethesda,Maryland,4.4,$$$
+Mission BBQ,Vegan,Laurel,Maryland,3.5,$
+Grille No.13,Vegan,Laurel,Maryland,3.9,$
+The Red Roost,Mexican,Germantown,Maryland,4.4,$$
+The Crab Claw,Italian,Gaithersburg,Maryland,4.7,$$
+Harry Browne's,American,Rockville,Maryland,3.9,$
+Volt,Seafood,College Park,Maryland,4.8,$
+Chart House,Vegan,Ellicott City,Maryland,4.3,$$$$
+Mi Rancho,Mexican,Columbia,Maryland,4.1,$
+Duck Duck Goose,American,Gaithersburg,Maryland,4.8,$$$$
+City Café,Vegan,Bowie,Maryland,3.6,$$$
+The Red Roost,Asian,Germantown,Maryland,4.3,$$
+Ruth's Chris Steak House,Vegan,Gaithersburg,Maryland,4.7,$
+The Capital Grille,Mexican,Cumberland,Maryland,4.9,$$
+Jalapenos,Mexican,Laurel,Maryland,3.6,$$
+Mission BBQ,Italian,Rockville,Maryland,4.8,$$$$
+Blue Moon Café,Mexican,Bethesda,Maryland,3.9,$$
+Ananda,French,Bethesda,Maryland,3.7,$
+Pho Bac,French,Frederick,Maryland,4.3,$$
+Federal House,Asian,Silver Spring,Maryland,4.5,$
+Ruth's Chris Steak House,Vegan,College Park,Maryland,4.7,$
+Ouzo Bay,Asian,Silver Spring,Maryland,4.6,$$
+Volt,Mexican,Bowie,Maryland,4,$$$
+Lighthouse Bistro,Mexican,Silver Spring,Maryland,5,$$
+Adam's Grille,Italian,Columbia,Maryland,4.2,$
+Adam's Grille,Italian,Silver Spring,Maryland,4.9,$$$$
+Papermoon Diner,Mexican,Silver Spring,Maryland,3.8,$$$$
+The Capital Grille,Mexican,Bethesda,Maryland,4.1,$$
+Federal House,Seafood,Silver Spring,Maryland,4.3,$$
+Mission BBQ,Asian,Silver Spring,Maryland,3.8,$$$$
+Papermoon Diner,Asian,Columbia,Maryland,3.8,$$$
+Iron Rooster,French,Germantown,Maryland,4.1,$$$$
+Pho Bac,Italian,College Park,Maryland,4.1,$$
+Boatyard Bar & Grill,French,Hagerstown,Maryland,3.8,$
+Chart House,Vegan,Annapolis,Maryland,4.3,$
+The Crab Claw,Asian,Laurel,Maryland,3.8,$
+Mi Rancho,Vegan,College Park,Maryland,4.3,$$$$
+Volt,Mexican,Annapolis,Maryland,4.4,$$$
+Old Ebbitt Grill,French,Rockville,Maryland,4.8,$$
+Woodberry Kitchen,Vegan,Ellicott City,Maryland,4.5,$$$
+City Café,French,Columbia,Maryland,4.9,$$$$
+Pho Bac,American,Annapolis,Maryland,4.2,$$$$
+Pho Bac,Asian,Cumberland,Maryland,4.4,$
+Peter's Inn,Asian,Laurel,Maryland,3.8,$
+Vin 909,Italian,Baltimore,Maryland,4.4,$$$$
+Lighthouse Bistro,Mexican,Germantown,Maryland,4.1,$$
+Mamma Lucia,French,Bethesda,Maryland,4.8,$
+Chart House,Mexican,Cumberland,Maryland,4.4,$$$
+Grille No.13,Asian,Annapolis,Maryland,4.2,$$
+Vin 909,Seafood,Laurel,Maryland,3.8,$$$$
+City Café,Vegan,Hagerstown,Maryland,4.5,$
+Mamma Lucia,Asian,Bethesda,Maryland,3.8,$$
+Cantler's Riverside Inn,Italian,Baltimore,Maryland,4.8,$$$$
+Federal House,American,College Park,Maryland,3.6,$$
+Jalapenos,Italian,Silver Spring,Maryland,4.2,$$$
+Corner Pantry,Mexican,Hagerstown,Maryland,4.9,$$$
+City Café,Asian,Columbia,Maryland,4,$$$$
+Harry Browne's,French,Laurel,Maryland,4,$
+The Crab Claw,Vegan,Frederick,Maryland,4.9,$
+Vin 909,Italian,Laurel,Maryland,4,$$$
+Mi Rancho,Vegan,Cumberland,Maryland,4,$$$$
+Pho Bac,Italian,Silver Spring,Maryland,4.7,$$
+Chart House,French,Columbia,Maryland,4.4,$$$
+Volt,Asian,Ellicott City,Maryland,4.6,$
+Gertrude's,Mexican,Baltimore,Maryland,4,$
+Harry Browne's,Mexican,Cumberland,Maryland,5,$$$
+Gertrude's,Vegan,Baltimore,Maryland,4.6,$$$$
+Jalapenos,Mexican,Hagerstown,Maryland,4.5,$
+La Tavola,Asian,Hagerstown,Maryland,3.8,$$$
+Rustico,American,Cumberland,Maryland,4,$$
+Grille No.13,Seafood,Gaithersburg,Maryland,3.6,$$$
+Old Ebbitt Grill,Seafood,Bowie,Maryland,3.8,$$$$
+The Capital Grille,American,Baltimore,Maryland,4.5,$$$
+Rustico,Seafood,Rockville,Maryland,4.5,$$$
+Adam's Grille,Italian,College Park,Maryland,4,$
+Woodberry Kitchen,Asian,Baltimore,Maryland,4.5,$$
+Federal House,Mexican,Germantown,Maryland,4,$$
+Ananda,Asian,Bowie,Maryland,3.6,$
+Lighthouse Bistro,French,Cumberland,Maryland,4.2,$
+Severn Inn,French,Germantown,Maryland,4.2,$$$
+Mission BBQ,Mexican,Laurel,Maryland,3.7,$$$
+City Café,Seafood,Cumberland,Maryland,4.2,$$$$
+The Prime Rib,Mexican,Columbia,Maryland,4.3,$$$$
+Mamma Lucia,Vegan,Annapolis,Maryland,4.6,$$
+Vin 909,Asian,Silver Spring,Maryland,4.7,$$$
+Lighthouse Bistro,Vegan,Ellicott City,Maryland,4.3,$$
+Ruth's Chris Steak House,Mexican,Baltimore,Maryland,3.6,$$$
+Gaggan,Thai,Bangkok,Asia,4.5,$$
+Tetsuya's,Chinese,Ho Chi Minh City,Asia,4,$$
+Shang Palace,Chinese,Tokyo,Asia,4.9,$
+Seventh Son,Fusion,Shanghai,Asia,4.5,$$$
+Les Amis,Japanese,Osaka,Asia,4.4,$
+Tetsuya's,Indian,Bali,Asia,4.6,$$$
+Tim Ho Wan,Vegan,Bangkok,Asia,4.2,$
+Seventh Son,Fusion,Colombo,Asia,4.1,$$$
+Amber,Thai,Bangkok,Asia,4.7,$
+Belon,Japanese,Tokyo,Asia,3.9,$$$$
+Bo Innovation,Japanese,Bangkok,Asia,4.4,$
+Mugaritz,Indian,Bali,Asia,4.2,$
+Ministry of Crab,Fusion,Tokyo,Asia,4.7,$
+Bo Innovation,Fusion,Taipei,Asia,4.3,$$$
+Indian Accent,Chinese,Hanoi,Asia,4.5,$$$$
+Lung King Heen,Korean,Taipei,Asia,3.7,$
+Robuchon au Dôme,Japanese,Seoul,Asia,3.8,$$$
+Andre's,Indian,Tokyo,Asia,4.2,$
+Din Tai Fung,Thai,Jakarta,Asia,4.2,$$$
+Hakkasan,Vegan,Tokyo,Asia,4.9,$$
+Asia's Best Buffet,Korean,Ho Chi Minh City,Asia,4.5,$$$
+Tim Ho Wan,Chinese,Seoul,Asia,4.3,$
+Narisawa,Vegan,Kyoto,Asia,5,$$$
+Sushi Saito,Thai,Mumbai,Asia,4.5,$$$
+Burnt Ends,Vegan,Bangkok,Asia,4.5,$$$
+Andre's,Indian,Jakarta,Asia,4.1,$$$$
+Raan Jay Fai,Korean,Osaka,Asia,4.1,$$
+Shinji by Kanesaka,Chinese,Jakarta,Asia,4.9,$
+The Chairman,Vegan,Taipei,Asia,4.9,$
+Mugaritz,Seafood,Bangkok,Asia,3.8,$$$$
+Waku Ghin,Seafood,Mumbai,Asia,4.3,$$$$
+Ultraviolet,Chinese,Manila,Asia,4,$
+Hakkasan,Japanese,Manila,Asia,3.8,$$
+Amber,Japanese,Bali,Asia,4.3,$$
+Din Tai Fung,Fusion,Taipei,Asia,5,$$$$
+Burnt Ends,Thai,Manila,Asia,4.9,$$$
+Hakkasan,Vegan,Hanoi,Asia,4.9,$$$
+Lung King Heen,Chinese,Beijing,Asia,4.4,$
+Hakkasan,Fusion,Osaka,Asia,4.4,$$$$
+Waku Ghin,Korean,Seoul,Asia,4.4,$$
+Indian Accent,Seafood,Kyoto,Asia,4.6,$$
+Issaya Siamese Club,Indian,Bangkok,Asia,4.1,$$$$
+Shang Palace,Vegan,Colombo,Asia,4,$$
+Belon,Korean,Bangkok,Asia,3.8,$$$$
+Zuma,Japanese,Singapore,Asia,4.1,$$$
+Rang Mahal,Thai,Kuala Lumpur,Asia,4.8,$$
+Burnt Ends,Japanese,Bangkok,Asia,4.8,$$
+Din Tai Fung,Korean,Bali,Asia,4.9,$$
+Indian Accent,Japanese,Osaka,Asia,4.3,$
+Din Tai Fung,Vegan,Kyoto,Asia,5,$$$
+Andre's,Korean,Ho Chi Minh City,Asia,4.8,$$
+Robuchon au Dôme,Japanese,Bangkok,Asia,4.4,$$$
+Rang Mahal,Thai,Delhi,Asia,4.4,$$
+Il Ristorante - Luca Fantin,Indian,Taipei,Asia,4.9,$$$
+Amber,Fusion,Kyoto,Asia,4.5,$$
+Gaggan,Chinese,Seoul,Asia,4.4,$$$$
+Indian Accent,Thai,Kuala Lumpur,Asia,4.8,$$$
+Gaggan,Japanese,Shanghai,Asia,4.6,$$$$
+Sukiyabashi Jiro,Japanese,Colombo,Asia,3.6,$$
+Bo Innovation,Korean,Bangkok,Asia,3.9,$$$
+Odette,Korean,Hong Kong,Asia,4.4,$$$$
+Andre's,Chinese,Taipei,Asia,3.5,$$$
+Il Ristorante - Luca Fantin,Indian,Kyoto,Asia,5,$$$
+Amber,Indian,Seoul,Asia,4,$$$$
+Mingles,Chinese,Mumbai,Asia,3.9,$$
+Waku Ghin,Japanese,Mumbai,Asia,3.5,$$$$
+Caprice,Fusion,Hong Kong,Asia,4.4,$$$
+8 1/2 Otto e Mezzo Bombana,Vegan,Seoul,Asia,3.7,$
+Cut by Wolfgang Puck,Japanese,Shanghai,Asia,4.3,$$$
+Issaya Siamese Club,Fusion,Singapore,Asia,4.4,$$
+Tetsuya's,Vegan,Manila,Asia,4.8,$
+Les Amis,Fusion,Taipei,Asia,5,$$$
+Gaggan,Japanese,Bangkok,Asia,4.1,$$$$
+Hakkasan,Vegan,Seoul,Asia,4.2,$
+Zuma,Indian,Hanoi,Asia,4.5,$$
+Burnt Ends,Japanese,Delhi,Asia,4.1,$$$$
+Il Ristorante - Luca Fantin,Fusion,Shanghai,Asia,4.4,$$$
+Mingles,Seafood,Singapore,Asia,4.6,$$$$
+Issaya Siamese Club,Thai,Beijing,Asia,3.8,$$
+Ginza Sushi Ichi,Thai,Bangkok,Asia,3.5,$$
+Shang Palace,Seafood,Bangkok,Asia,4.9,$$$
+Bo Innovation,Seafood,Kuala Lumpur,Asia,3.6,$$$$
+The Chairman,Vegan,Tokyo,Asia,3.6,$$$
+Andre's,Korean,Osaka,Asia,4.1,$$$
+Nahm,Fusion,Ho Chi Minh City,Asia,4.7,$$$$
+Mugaritz,Japanese,Singapore,Asia,4.6,$
+Seventh Son,Seafood,Bangkok,Asia,4.8,$
+Nahm,Vegan,Manila,Asia,4.7,$$
+Narisawa,Vegan,Kyoto,Asia,4.6,$$$$
+Song of India,Thai,Bali,Asia,4.3,$$$
+Lung King Heen,Vegan,Delhi,Asia,3.7,$$$$
+Tetsuya's,Indian,Shanghai,Asia,3.8,$
+Andre's,Korean,Ho Chi Minh City,Asia,4.1,$$$$
+Burnt Ends,Chinese,Hanoi,Asia,3.8,$
+Asia's Best Buffet,Thai,Manila,Asia,3.8,$$$$
+Ministry of Crab,Japanese,Bangkok,Asia,4.9,$
+Tim Ho Wan,Japanese,Colombo,Asia,4,$$$
+Hakkasan,Korean,Delhi,Asia,4.2,$$
+The Chairman,Thai,Hanoi,Asia,4.4,$
+Raan Jay Fai,Chinese,Jakarta,Asia,4.8,$
+Caprice,Indian,Delhi,Asia,3.9,$
+Andre's,Thai,Beijing,Asia,3.8,$$$$
+Narisawa,Korean,Delhi,Asia,4.6,$$$$
+Zuma,Fusion,Singapore,Asia,4.3,$
+Narisawa,Japanese,Manila,Asia,5,$$$
+Ministry of Crab,Fusion,Kyoto,Asia,3.9,$$$$
+Belon,Japanese,Singapore,Asia,4.8,$$$
+Andre's,Chinese,Delhi,Asia,4.4,$
+Nahm,Vegan,Kyoto,Asia,4.6,$$$
+8 1/2 Otto e Mezzo Bombana,Fusion,Ho Chi Minh City,Asia,4,$
+Burnt Ends,Chinese,Manila,Asia,4.9,$$
+Shinji by Kanesaka,Thai,Hong Kong,Asia,3.8,$
+Odette,Seafood,Singapore,Asia,5,$$
+Lung King Heen,Fusion,Kuala Lumpur,Asia,4.1,$
+Song of India,Japanese,Hanoi,Asia,4.1,$$
+Il Ristorante - Luca Fantin,Fusion,Hong Kong,Asia,4.6,$$$
+Amber,Chinese,Mumbai,Asia,4.1,$
+Robuchon au Dôme,Fusion,Mumbai,Asia,4.8,$$$
+Raan Jay Fai,Vegan,Bangkok,Asia,4.3,$
+Ginza Sushi Ichi,Chinese,Bangkok,Asia,4.3,$$$$
+Narisawa,Vegan,Bangkok,Asia,4.1,$$
+The Chairman,Seafood,Kuala Lumpur,Asia,4.4,$$$$
+8 1/2 Otto e Mezzo Bombana,Japanese,Singapore,Asia,3.8,$$$$
+The Chairman,Korean,Hanoi,Asia,3.9,$
+The Chairman,Thai,Hong Kong,Asia,3.8,$
+Odette,Seafood,Beijing,Asia,4.2,$
+Belon,Korean,Bali,Asia,3.5,$$$$
+Amber,Seafood,Delhi,Asia,4.3,$$$$
+Mingles,Thai,Taipei,Asia,4.4,$$$
+Il Ristorante - Luca Fantin,Thai,Colombo,Asia,4.7,$
+Raan Jay Fai,Thai,Bali,Asia,4.9,$$
+Tim Ho Wan,Fusion,Hong Kong,Asia,3.5,$$
+Waku Ghin,Japanese,Bangkok,Asia,4.1,$$$$
+Cut by Wolfgang Puck,Seafood,Seoul,Asia,4.8,$
+Issaya Siamese Club,Japanese,Taipei,Asia,4.2,$$$
+Sukiyabashi Jiro,Indian,Colombo,Asia,4.6,$
+Lung King Heen,Indian,Bangkok,Asia,4,$$$$
+Bo Innovation,Korean,Tokyo,Asia,3.8,$$
+Song of India,Thai,Hong Kong,Asia,3.5,$$
+Ginza Sushi Ichi,Vegan,Delhi,Asia,3.6,$$
+Ministry of Crab,Indian,Shanghai,Asia,4.1,$$
+Gaggan,Chinese,Bali,Asia,3.9,$$$$
+The Chairman,Korean,Bali,Asia,5,$$$
+Caprice,Fusion,Manila,Asia,4.1,$
+Tim Ho Wan,Seafood,Hanoi,Asia,3.9,$$$$
+Raan Jay Fai,Japanese,Jakarta,Asia,4,$$$$
+Nahm,Japanese,Tokyo,Asia,4.4,$$$$
+Sushi Saito,Vegan,Hong Kong,Asia,4.4,$$$
+Raan Jay Fai,Chinese,Tokyo,Asia,4.8,$$$
+Song of India,Vegan,Bangkok,Asia,4.9,$$$
+Quilon,Fusion,Beijing,Asia,3.7,$$$$
+Issaya Siamese Club,Fusion,Ho Chi Minh City,Asia,3.7,$$$
+Burnt Ends,Fusion,Tokyo,Asia,3.8,$$$
+Asia's Best Buffet,Indian,Beijing,Asia,4.6,$$
+Narisawa,Indian,Beijing,Asia,4.3,$$$
+Quilon,Japanese,Hanoi,Asia,4,$$$
+Hakkasan,Vegan,Jakarta,Asia,4.5,$$$
+Narisawa,Korean,Hanoi,Asia,3.6,$$$$
+Song of India,Fusion,Manila,Asia,4.5,$$$$
+Odette,Fusion,Kuala Lumpur,Asia,4.3,$$
+Rang Mahal,Thai,Bangkok,Asia,3.7,$$$
+Shang Palace,Indian,Kyoto,Asia,5,$$$$
+Shang Palace,Fusion,Kyoto,Asia,4.7,$$
+Narisawa,Vegan,Bali,Asia,4.1,$$
+Mugaritz,Indian,Delhi,Asia,4.4,$
+Sushi Saito,Korean,Bali,Asia,4.1,$$
+Mugaritz,Indian,Kyoto,Asia,4.5,$$
+Tim Ho Wan,Fusion,Taipei,Asia,3.6,$$
+Mingles,Chinese,Seoul,Asia,4.1,$$$
+Odette,Fusion,Osaka,Asia,3.8,$$$$
+Narisawa,Seafood,Colombo,Asia,5,$$
+Ginza Sushi Ichi,Chinese,Colombo,Asia,3.6,$$
+Robuchon au Dôme,Chinese,Bangkok,Asia,4.5,$$$$
+Hakkasan,Indian,Beijing,Asia,4.2,$$$
+Burnt Ends,Japanese,Delhi,Asia,4.8,$$$
+Burnt Ends,Thai,Osaka,Asia,4.8,$
+Song of India,Chinese,Beijing,Asia,4.3,$$
+Bo Innovation,Korean,Delhi,Asia,4.3,$$
+Amber,Japanese,Bali,Asia,4.3,$$
+Ginza Sushi Ichi,Seafood,Kyoto,Asia,4.2,$$$$
+Il Ristorante - Luca Fantin,Indian,Mumbai,Asia,4.8,$$$$
+Hakkasan,Vegan,Hanoi,Asia,3.6,$$$
+Raan Jay Fai,Indian,Bali,Asia,3.5,$$
+Shinji by Kanesaka,Chinese,Bangkok,Asia,3.9,$
+Mingles,Korean,Ho Chi Minh City,Asia,3.8,$$$$
+Sukiyabashi Jiro,Indian,Bangkok,Asia,4,$$
+Asia's Best Buffet,Fusion,Singapore,Asia,4.7,$$
+Shang Palace,Indian,Singapore,Asia,3.5,$$$
+Indian Accent,Korean,Tokyo,Asia,4.6,$
+Sukiyabashi Jiro,Seafood,Kyoto,Asia,4.3,$$
+Sushi Saito,Vegan,Hong Kong,Asia,4.3,$$
+Quilon,Chinese,Hanoi,Asia,4.7,$
+Belon,Chinese,Taipei,Asia,4,$$
+Shang Palace,Thai,Beijing,Asia,3.5,$$$
+Issaya Siamese Club,Japanese,Shanghai,Asia,5,$
+Amber,Korean,Delhi,Asia,4.8,$$
+Quilon,Japanese,Osaka,Asia,4.4,$$
+Ministry of Crab,Vegan,Manila,Asia,4.2,$$$
+Shinji by Kanesaka,Korean,Manila,Asia,4.8,$$
+Asia's Best Buffet,Chinese,Tokyo,Asia,4.3,$$
+The Chairman,Chinese,Bangkok,Asia,4.9,$$$$
+Sukiyabashi Jiro,Japanese,Kuala Lumpur,Asia,4.3,$$$
+Issaya Siamese Club,Chinese,Seoul,Asia,3.7,$$$
+Raan Jay Fai,Japanese,Bangkok,Asia,3.9,$$$
+Bo Innovation,Chinese,Hanoi,Asia,4.2,$$
+Rang Mahal,Japanese,Kyoto,Asia,4.4,$$
+Issaya Siamese Club,Seafood,Tokyo,Asia,4.9,$$$
+Sukiyabashi Jiro,Seafood,Shanghai,Asia,4.7,$
+Quilon,Fusion,Colombo,Asia,5,$$
+Indian Accent,Seafood,Hong Kong,Asia,3.6,$$$
+Asia's Best Buffet,Fusion,Osaka,Asia,4.1,$$$$
+Robuchon au Dôme,Seafood,Singapore,Asia,3.7,$$
+Sushi Saito,Fusion,Hong Kong,Asia,4.1,$$
+Quilon,Chinese,Bangkok,Asia,4.9,$$$$
+Cut by Wolfgang Puck,Seafood,Bangkok,Asia,4.1,$$
+Din Tai Fung,Seafood,Bali,Asia,4.4,$$$$
+Issaya Siamese Club,Seafood,Manila,Asia,4.8,$$
+Gaggan,Thai,Taipei,Asia,4.2,$$$
+Indian Accent,Fusion,Taipei,Asia,4.2,$$
+Issaya Siamese Club,Chinese,Osaka,Asia,4.8,$$$
+Burnt Ends,Indian,Tokyo,Asia,4.5,$$$$
+8 1/2 Otto e Mezzo Bombana,Fusion,Bangkok,Asia,4.3,$$$$
+Asia's Best Buffet,Chinese,Hong Kong,Asia,3.8,$$
+Odette,Chinese,Kuala Lumpur,Asia,3.7,$$
+Belon,Japanese,Ho Chi Minh City,Asia,3.8,$$$$
+Sukiyabashi Jiro,Korean,Hong Kong,Asia,4.9,$
+Belon,Japanese,Delhi,Asia,4.7,$$
+Ministry of Crab,Thai,Mumbai,Asia,3.9,$$$$
+Shang Palace,Indian,Kuala Lumpur,Asia,4.9,$$
+Odette,Japanese,Bali,Asia,4.2,$
+Rang Mahal,Vegan,Hanoi,Asia,4.2,$$$$
+Sushi Saito,Indian,Bali,Asia,4.2,$$$$
+Sukiyabashi Jiro,Japanese,Delhi,Asia,3.8,$$$$
+Indian Accent,Thai,Kuala Lumpur,Asia,4.7,$$$$
+Quilon,Thai,Tokyo,Asia,4.6,$$$
+Belon,Korean,Beijing,Asia,3.5,$$$
+Lung King Heen,Fusion,Hanoi,Asia,4.8,$
+Belon,Thai,Manila,Asia,4.6,$$$
+Il Ristorante - Luca Fantin,Korean,Jakarta,Asia,3.6,$
+Ginza Sushi Ichi,Thai,Seoul,Asia,4.2,$$$$
+Robuchon au Dôme,Korean,Taipei,Asia,4.6,$$$$
+Sukiyabashi Jiro,Korean,Bangkok,Asia,3.9,$$
+Ginza Kojyu,Seafood,Mumbai,Asia,4.3,$
+Caprice,Korean,Osaka,Asia,4.8,$$$
+Zuma,Vegan,Jakarta,Asia,4.2,$
+Din Tai Fung,Vegan,Bali,Asia,3.6,$
+Asia's Best Buffet,Thai,Tokyo,Asia,4.8,$$$$
+Burnt Ends,Chinese,Kuala Lumpur,Asia,3.9,$
+Raan Jay Fai,Korean,Osaka,Asia,4.9,$$$$
+Shinji by Kanesaka,Indian,Singapore,Asia,4.3,$$$
+Indian Accent,Indian,Taipei,Asia,3.7,$$
+8 1/2 Otto e Mezzo Bombana,Thai,Kuala Lumpur,Asia,4.6,$$
+Bo Innovation,Japanese,Seoul,Asia,3.7,$
+Indian Accent,Korean,Colombo,Asia,4.1,$$$$
+8 1/2 Otto e Mezzo Bombana,Vegan,Hanoi,Asia,3.9,$$$
+Quilon,Fusion,Manila,Asia,4,$$
+Cut by Wolfgang Puck,Thai,Taipei,Asia,3.6,$
+Mingles,Fusion,Singapore,Asia,4.3,$$
+Tetsuya's,Seafood,Bali,Asia,4.5,$
+Rang Mahal,Seafood,Ho Chi Minh City,Asia,3.7,$$
+Burnt Ends,Fusion,Kyoto,Asia,3.7,$
+Raan Jay Fai,Thai,Bangkok,Asia,4,$$$
+Ultraviolet,Vegan,Bali,Asia,3.6,$
+Ministry of Crab,Korean,Seoul,Asia,4.1,$
+Amber,Indian,Tokyo,Asia,5,$$$$
+Seventh Son,Indian,Bali,Asia,4.4,$
+Indian Accent,Seafood,Mumbai,Asia,4.8,$$$$
+Tetsuya's,Fusion,Singapore,Asia,4.1,$$
+Bo Innovation,Chinese,Mumbai,Asia,4.2,$$
+Raan Jay Fai,Fusion,Bangkok,Asia,3.7,$
+Seventh Son,Japanese,Singapore,Asia,4.4,$
+Waku Ghin,Vegan,Hong Kong,Asia,4.7,$$$$
+Issaya Siamese Club,Seafood,Kyoto,Asia,4,$
+Les Amis,Vegan,Jakarta,Asia,4.2,$
+Quilon,Chinese,Colombo,Asia,3.6,$
+Din Tai Fung,Seafood,Hong Kong,Asia,4.1,$$
+Odette,Seafood,Seoul,Asia,3.8,$$$
+Ultraviolet,Thai,Shanghai,Asia,4.6,$$$$
+Mugaritz,Korean,Taipei,Asia,4.6,$$$$
+Rang Mahal,Japanese,Tokyo,Asia,4.9,$$$
+Zuma,Korean,Hanoi,Asia,4.4,$
+Issaya Siamese Club,Indian,Seoul,Asia,3.5,$
+Tim Ho Wan,Thai,Beijing,Asia,4.2,$$
+Shang Palace,Seafood,Jakarta,Asia,4.1,$$
+Ministry of Crab,Seafood,Colombo,Asia,4.4,$$$$
+Mingles,Seafood,Bangkok,Asia,3.7,$$
+Cut by Wolfgang Puck,Seafood,Hanoi,Asia,3.5,$$$$
+Zuma,Japanese,Kyoto,Asia,4.1,$$$$
+Quilon,Chinese,Singapore,Asia,3.8,$$$$
+Ultraviolet,Fusion,Colombo,Asia,3.6,$$$
+Sushi Saito,Vegan,Jakarta,Asia,4.1,$$$
+Andre's,Chinese,Tokyo,Asia,4.6,$
+Caprice,Japanese,Kyoto,Asia,4.1,$$$
+Cut by Wolfgang Puck,Japanese,Hong Kong,Asia,3.6,$$$$
+Nahm,Thai,Bali,Asia,4.6,$
+Lung King Heen,Thai,Bali,Asia,4.9,$$$$
+Asia's Best Buffet,Seafood,Bali,Asia,4,$
+Caprice,Indian,Ho Chi Minh City,Asia,4.8,$$
+Gaggan,Seafood,Bangkok,Asia,4.9,$
+Zuma,Korean,Kyoto,Asia,4,$$$$
+Shinji by Kanesaka,Fusion,Beijing,Asia,4.4,$$$$
+Ministry of Crab,Fusion,Kyoto,Asia,4.5,$$$
+Belon,Indian,Seoul,Asia,4.7,$$
+Belon,Japanese,Ho Chi Minh City,Asia,4.1,$$$$
+Rang Mahal,Chinese,Seoul,Asia,4.8,$$$$
+Quilon,Indian,Singapore,Asia,4.4,$$$$
+Shinji by Kanesaka,Korean,Colombo,Asia,4.8,$$$$
+Narisawa,Indian,Hong Kong,Asia,3.6,$
+Sukiyabashi Jiro,Fusion,Bali,Asia,4,$$$$
+Narisawa,Chinese,Hanoi,Asia,3.5,$$$
+Seventh Son,Chinese,Delhi,Asia,4.9,$$$$
+Shang Palace,Fusion,Mumbai,Asia,3.9,$$
+Raan Jay Fai,Chinese,Bangkok,Asia,3.9,$$$$
+Mingles,Vegan,Hanoi,Asia,4.6,$$$
+Caprice,Korean,Tokyo,Asia,4.9,$$
+Cut by Wolfgang Puck,Seafood,Osaka,Asia,4.3,$$$$
+Din Tai Fung,Seafood,Singapore,Asia,4.1,$$$
+Asia's Best Buffet,Fusion,Bangkok,Asia,3.8,$$
+Ultraviolet,Korean,Hong Kong,Asia,3.6,$$
+Les Amis,Seafood,Seoul,Asia,4.7,$
+Shinji by Kanesaka,Seafood,Kuala Lumpur,Asia,3.7,$$$
+Les Amis,Japanese,Hong Kong,Asia,3.5,$$
+Andre's,Fusion,Kuala Lumpur,Asia,4.1,$$
+The Chairman,Vegan,Kyoto,Asia,4.6,$
+Asia's Best Buffet,Indian,Beijing,Asia,4.1,$
+Il Ristorante - Luca Fantin,Vegan,Mumbai,Asia,3.9,$
+Ginza Kojyu,Fusion,Shanghai,Asia,4.4,$
+Nahm,Japanese,Delhi,Asia,4,$$
+Mugaritz,Fusion,Delhi,Asia,4.3,$
+Narisawa,Japanese,Beijing,Asia,3.6,$$$$
+Din Tai Fung,Thai,Kyoto,Asia,4.5,$$
+Zuma,Vegan,Shanghai,Asia,4.3,$$$$
+Waku Ghin,Thai,Osaka,Asia,3.8,$$
+Burnt Ends,Japanese,Taipei,Asia,4.9,$$
+Cut by Wolfgang Puck,Chinese,Hong Kong,Asia,4.3,$
+Quilon,Korean,Bali,Asia,4.3,$$
+Mugaritz,Thai,Hong Kong,Asia,4.8,$
+Issaya Siamese Club,Thai,Mumbai,Asia,3.9,$$$
+Hakkasan,Thai,Kuala Lumpur,Asia,3.9,$
+Quilon,Thai,Kyoto,Asia,4.3,$$$$
+Gaggan,Japanese,Shanghai,Asia,4.4,$$$
+Mingles,Seafood,Singapore,Asia,4.4,$
+Gaggan,Seafood,Hong Kong,Asia,4.2,$
+Ministry of Crab,Korean,Delhi,Asia,3.6,$$$$
+Indian Accent,Seafood,Tokyo,Asia,4.7,$$$
+Belon,Chinese,Singapore,Asia,3.9,$
+Narisawa,Vegan,Tokyo,Asia,4.1,$$
+Les Amis,Thai,Bangkok,Asia,4.2,$$
+Bo Innovation,Thai,Bali,Asia,3.8,$$$$
+Tetsuya's,Vegan,Delhi,Asia,4.2,$$$
+Shang Palace,Fusion,Singapore,Asia,3.9,$
+Din Tai Fung,Vegan,Bangkok,Asia,4.3,$$$$
+8 1/2 Otto e Mezzo Bombana,Seafood,Beijing,Asia,3.7,$
+Il Ristorante - Luca Fantin,Japanese,Seoul,Asia,3.8,$$$$
+Il Ristorante - Luca Fantin,Chinese,Mumbai,Asia,4.1,$$
+Andre's,Fusion,Osaka,Asia,4.9,$$$
+Burnt Ends,Seafood,Delhi,Asia,4.6,$$
+Hakkasan,Korean,Colombo,Asia,4.1,$$$
+Amber,Thai,Shanghai,Asia,4.5,$$
+Waku Ghin,Thai,Beijing,Asia,4.6,$$
+Caprice,Indian,Jakarta,Asia,4.2,$$$
+Song of India,Japanese,Kyoto,Asia,4.7,$$$
+Burnt Ends,Thai,Manila,Asia,5,$$
+Raan Jay Fai,Chinese,Taipei,Asia,4.6,$$$$
+Belon,Japanese,Taipei,Asia,3.8,$$
+Narisawa,Chinese,Seoul,Asia,4.9,$
+Tetsuya's,Thai,Colombo,Asia,4.1,$$$$
+Mugaritz,Seafood,Mumbai,Asia,5,$$$$
+Waku Ghin,Korean,Bangkok,Asia,3.7,$
+Hakkasan,Korean,Kyoto,Asia,4.8,$$$$
+Indian Accent,Indian,Bangkok,Asia,4.3,$$$$
+Shinji by Kanesaka,Korean,Ho Chi Minh City,Asia,4.6,$$
+Robuchon au Dôme,Vegan,Kyoto,Asia,4.1,$$$
+Belon,Seafood,Bangkok,Asia,4.3,$$$$
+Asia's Best Buffet,Vegan,Bangkok,Asia,4.9,$$
+Shang Palace,Seafood,Jakarta,Asia,4.4,$$$
+Rang Mahal,Chinese,Tokyo,Asia,3.7,$$
+Odette,Vegan,Bangkok,Asia,4.3,$$
+Sukiyabashi Jiro,Korean,Bangkok,Asia,3.5,$$$$
+Rang Mahal,Chinese,Bangkok,Asia,4.3,$$$
+Waku Ghin,Seafood,Osaka,Asia,4.4,$
+Lung King Heen,Chinese,Bangkok,Asia,3.7,$$$
+Rang Mahal,Korean,Mumbai,Asia,3.7,$$
+Gaggan,Vegan,Taipei,Asia,4.2,$$$$
+Narisawa,Chinese,Mumbai,Asia,4.1,$$$
+Hakkasan,Indian,Bangkok,Asia,3.7,$$
+Zuma,Korean,Hanoi,Asia,4.6,$$$
+Seventh Son,Thai,Delhi,Asia,4.9,$$$
+Shinji by Kanesaka,Indian,Manila,Asia,3.8,$$$
+Issaya Siamese Club,Korean,Shanghai,Asia,4.8,$
+Tetsuya's,Vegan,Shanghai,Asia,4.1,$$
+Tetsuya's,Japanese,Bali,Asia,4.4,$$$$
+Tim Ho Wan,Indian,Bangkok,Asia,3.7,$$$
+Sushi Saito,Chinese,Kuala Lumpur,Asia,4.5,$
+Ministry of Crab,Indian,Shanghai,Asia,5,$$
+Zuma,Thai,Seoul,Asia,4.3,$$$$
+Quilon,Thai,Tokyo,Asia,3.6,$$
+Quilon,Thai,Jakarta,Asia,3.8,$
+Rang Mahal,Vegan,Tokyo,Asia,3.7,$
+Mingles,Vegan,Taipei,Asia,4.7,$$
+Ministry of Crab,Japanese,Kuala Lumpur,Asia,4,$$$
+Shinji by Kanesaka,Seafood,Bangkok,Asia,4.6,$$
+Tim Ho Wan,Fusion,Mumbai,Asia,4.4,$
+Ginza Sushi Ichi,Chinese,Delhi,Asia,3.7,$$$$
+Cut by Wolfgang Puck,Vegan,Kuala Lumpur,Asia,3.7,$
+Mingles,Thai,Kuala Lumpur,Asia,4.4,$$$
+Rang Mahal,Fusion,Shanghai,Asia,5,$
+Belon,Indian,Osaka,Asia,4,$$
+Amber,Fusion,Mumbai,Asia,4.1,$$$$
+Zuma,Japanese,Colombo,Asia,4.5,$$$$
+Il Ristorante - Luca Fantin,Vegan,Bali,Asia,3.6,$
+Nahm,Korean,Bangkok,Asia,4.3,$
+Rang Mahal,Vegan,Singapore,Asia,3.9,$
+Issaya Siamese Club,Vegan,Delhi,Asia,3.5,$
+Ultraviolet,Korean,Beijing,Asia,4.7,$
+Ultraviolet,Vegan,Ho Chi Minh City,Asia,4.4,$$
+Ginza Kojyu,Chinese,Seoul,Asia,4.5,$$$
+Narisawa,Chinese,Shanghai,Asia,4.1,$$$$
+Amber,Seafood,Ho Chi Minh City,Asia,4.2,$$
+Odette,Japanese,Beijing,Asia,4,$$$
+Ministry of Crab,Vegan,Hong Kong,Asia,4.4,$$$
+Din Tai Fung,Thai,Seoul,Asia,4.7,$$$
+Belon,Indian,Bangkok,Asia,4.1,$$$$
+The Chairman,Indian,Manila,Asia,4.6,$$
+Tim Ho Wan,Fusion,Bangkok,Asia,4.6,$$
+Song of India,Korean,Mumbai,Asia,4,$$$
+Nahm,Indian,Hanoi,Asia,4.7,$$$$
+Quilon,Korean,Mumbai,Asia,4.9,$$$
+Nahm,Fusion,Osaka,Asia,4.9,$$
+Les Amis,Indian,Seoul,Asia,5,$$$$
+Ultraviolet,Thai,Bangkok,Asia,4,$$$$
+Issaya Siamese Club,Fusion,Kuala Lumpur,Asia,4,$$$$
+Narisawa,Seafood,Bali,Asia,4.7,$$$$
+Ginza Sushi Ichi,Japanese,Jakarta,Asia,3.6,$$$
+Asia's Best Buffet,Vegan,Bali,Asia,3.7,$$$$
+The Chairman,Indian,Bangkok,Asia,3.9,$
+Robuchon au Dôme,Seafood,Delhi,Asia,3.9,$$$$
+Hakkasan,Vegan,Osaka,Asia,4.7,$$
+Caprice,Korean,Bali,Asia,4.9,$$
+Il Ristorante - Luca Fantin,Japanese,Seoul,Asia,3.7,$$
+Mingles,Japanese,Bangkok,Asia,4.8,$$
+Shinji by Kanesaka,Korean,Delhi,Asia,4.3,$$$$
+Andre's,Vegan,Colombo,Asia,3.5,$$
+Song of India,Fusion,Ho Chi Minh City,Asia,4.6,$$$$
+Narisawa,Seafood,Tokyo,Asia,3.9,$$$$
+Ultraviolet,Japanese,Hong Kong,Asia,3.6,$
+Indian Accent,Vegan,Seoul,Asia,3.6,$
+Il Ristorante - Luca Fantin,Japanese,Kuala Lumpur,Asia,4.5,$$$
+Lung King Heen,Indian,Tokyo,Asia,4.9,$$$
+Andre's,Japanese,Bali,Asia,4.4,$$$$
+Tim Ho Wan,Fusion,Singapore,Asia,4.7,$$$
+Les Amis,Fusion,Seoul,Asia,3.8,$$
+Belon,Japanese,Kyoto,Asia,3.7,$
+Asia's Best Buffet,Indian,Osaka,Asia,4.9,$$$$
+Ginza Kojyu,Korean,Kyoto,Asia,3.6,$$$
+The Chairman,Vegan,Manila,Asia,4,$$
+Rang Mahal,Thai,Ho Chi Minh City,Asia,3.8,$$$
+Rang Mahal,Vegan,Singapore,Asia,4.6,$$$$
+Les Amis,Indian,Bangkok,Asia,3.8,$
+Bo Innovation,Indian,Delhi,Asia,4.9,$
+Rang Mahal,Thai,Tokyo,Asia,4,$$$$
+Raan Jay Fai,Chinese,Hong Kong,Asia,4.9,$$$
+Belon,Japanese,Shanghai,Asia,4.2,$$$$
+Ginza Kojyu,Thai,Ho Chi Minh City,Asia,4.1,$$$
+Amber,Korean,Hanoi,Asia,3.7,$$$
+Tim Ho Wan,Chinese,Manila,Asia,4.3,$
+Din Tai Fung,Thai,Seoul,Asia,5,$$$$
+Cut by Wolfgang Puck,Thai,Osaka,Asia,4.2,$$$
+Nahm,Thai,Ho Chi Minh City,Asia,4.4,$$$$
+Robuchon au Dôme,Indian,Hanoi,Asia,3.9,$$$
+Shang Palace,Thai,Mumbai,Asia,4.4,$$$$
+Caprice,Japanese,Osaka,Asia,3.6,$$
+Ginza Kojyu,Korean,Bangkok,Asia,3.7,$$
+Shang Palace,Chinese,Shanghai,Asia,3.7,$$$
+Gaggan,Thai,Jakarta,Asia,4.8,$
+Seventh Son,Japanese,Bali,Asia,4,$
+Mingles,Fusion,Kuala Lumpur,Asia,4.4,$
+Ultraviolet,Seafood,Taipei,Asia,4.2,$$$
+Cut by Wolfgang Puck,Vegan,Seoul,Asia,4.1,$$$$
+Din Tai Fung,Seafood,Ho Chi Minh City,Asia,3.6,$
+Andre's,Japanese,Singapore,Asia,3.9,$
+Tim Ho Wan,Japanese,Osaka,Asia,3.7,$$$$
+Bo Innovation,Korean,Singapore,Asia,4,$
+Quilon,Japanese,Bangkok,Asia,4.9,$$
+Ginza Kojyu,Vegan,Kuala Lumpur,Asia,3.9,$$$$
+Song of India,Thai,Bangkok,Asia,3.8,$$
+Quilon,Japanese,Delhi,Asia,4.7,$$$$
+Shang Palace,Chinese,Colombo,Asia,4.6,$$$$
+Nahm,Fusion,Bali,Asia,4.9,$$$$
+Tim Ho Wan,Seafood,Colombo,Asia,3.5,$$$
+Gaggan,Korean,Jakarta,Asia,3.8,$$$
+Tim Ho Wan,Thai,Beijing,Asia,4.7,$$$$
+Sushi Saito,Korean,Ho Chi Minh City,Asia,3.7,$$$$
+Burnt Ends,Vegan,Shanghai,Asia,4.4,$$$
+Rang Mahal,Indian,Bangkok,Asia,4,$
+Asia's Best Buffet,Seafood,Osaka,Asia,3.6,$$$$
+Hakkasan,Thai,Mumbai,Asia,3.5,$$$$
+Amber,Fusion,Delhi,Asia,4.2,$$
+Burnt Ends,Chinese,Bangkok,Asia,3.8,$$$$
+Les Amis,Vegan,Singapore,Asia,4.5,$$$
+Masque,Vegan,Kerala,India,4.8,$
+Shree Thaker Bhojanalay,Italian,Pune,India,3.9,$$
+Indigo Deli,Chinese,New Delhi,India,4,$
+Indian Accent,South Indian,Mumbai,India,4.5,$
+Saravana Bhavan,Italian,Bengaluru,India,4.2,$$$$
+The Fatty Bao,Italian,Bengaluru,India,4.8,$$
+Trishna,Indian,Kerala,India,4.7,$$$$
+Toit,Chinese,New Delhi,India,5,$$$$
+Gajalee,Vegan,Pune,India,3.6,$
+Copper Chimney,Indian,Pune,India,4.1,$$$
+Cafe Madras,Fusion,Mumbai,India,4.9,$$
+Mahesh Lunch Home,Seafood,Bengaluru,India,4.2,$$
+Malaka Spice,Fusion,Pune,India,4.3,$$
+Chin Lung,Chinese,Maharashtra,India,4.7,$
+Britannia & Co.,North Indian,Pune,India,4.7,$$
+Trishna,North Indian,Bengaluru,India,3.7,$
+Bombay Canteen,Seafood,Bengaluru,India,4.6,$
+Karavalli,Vegan,Bengaluru,India,4.7,$
+Koshy’s,South Indian,Pune,India,3.6,$
+Britannia & Co.,Seafood,Mumbai,India,4.7,$
+Peshawri,Vegan,Kerala,India,3.9,$$$
+The Fatty Bao,North Indian,Maharashtra,India,3.7,$$$$
+The Seafood Restaurant,Italian,Kerala,India,4.9,$
+Sheraton Feast,Vegan,Bengaluru,India,4.6,$
+Bukhara,South Indian,Kerala,India,4.3,$$$
+O Pedro,South Indian,Kerala,India,3.6,$
+Olive Bar & Kitchen,Vegan,New Delhi,India,4.9,$$$$
+The Table,South Indian,Pune,India,4,$
+Shree Thaker Bhojanalay,Chinese,Bengaluru,India,3.7,$
+O Pedro,Fusion,Pune,India,4.7,$$$$
+Bukhara,South Indian,Pune,India,4.9,$$$
+The Table,Seafood,Maharashtra,India,4.3,$$$
+SodaBottleOpenerWala,Italian,Mumbai,India,3.9,$$$$
+Kebabs & Kurries,Fusion,Pune,India,4.3,$$
+The Leela,South Indian,Mumbai,India,3.7,$$$
+Saravana Bhavan,Seafood,Maharashtra,India,3.6,$$
+Masque,Seafood,Bengaluru,India,5,$$
+Chin Lung,North Indian,Maharashtra,India,4.9,$$
+Le Cirque,Fusion,Bengaluru,India,4.4,$$$$
+Yauatcha,Seafood,Kerala,India,4.8,$$$
+The Table,Chinese,Bengaluru,India,3.7,$
+Bukhara,Indian,Maharashtra,India,4.9,$$$$
+Indigo Deli,Indian,Mumbai,India,3.8,$
+Yauatcha,South Indian,Maharashtra,India,4.5,$
+Empire,South Indian,Maharashtra,India,3.8,$$
+Peshawri,North Indian,Bengaluru,India,4.2,$$$
+Social,Seafood,Bengaluru,India,4.8,$$
+Chin Lung,South Indian,Pune,India,3.7,$$$$
+The Seafood Restaurant,North Indian,Mumbai,India,4.6,$$
+Karavalli,South Indian,Mumbai,India,3.5,$$
+The Seafood Restaurant,Italian,Pune,India,4.7,$$$$
+Indigo Deli,Italian,Kerala,India,4.6,$$
+The Flying Elephant,Chinese,Bengaluru,India,4,$$
+Mahesh Lunch Home,Vegan,Pune,India,4.1,$$$$
+Shree Thaker Bhojanalay,Chinese,Maharashtra,India,4.2,$
+The Table,Indian,Kerala,India,4.8,$$$
+Peshawri,Vegan,Kerala,India,4.7,$$
+O Pedro,Chinese,Mumbai,India,4.8,$
+Sheraton Feast,Chinese,Bengaluru,India,5,$$$$
+Gajalee,Indian,Maharashtra,India,4.7,$$$$
+Sheraton Feast,Seafood,Pune,India,4.1,$$$$
+Chin Lung,Indian,Mumbai,India,4.2,$$$$
+Dakshin,South Indian,Kerala,India,3.8,$$$$
+Bombay Canteen,Indian,Bengaluru,India,4.9,$$$$
+Peshawri,North Indian,Pune,India,4.3,$$$
+Mahesh Lunch Home,North Indian,Mumbai,India,4.2,$
+Copper Chimney,South Indian,New Delhi,India,4.9,$$$$
+Zam Zam,Fusion,Bengaluru,India,5,$$$$
+Copper Chimney,Chinese,New Delhi,India,4,$$$
+Barbeque Nation,Seafood,Bengaluru,India,3.7,$$$$
+Copper Chimney,Indian,Mumbai,India,4.7,$$$$
+Le Cirque,South Indian,Pune,India,3.8,$
+Toit,South Indian,Mumbai,India,4.1,$$
+Malaka Spice,Chinese,Kerala,India,5,$$
+Karavalli,Indian,Mumbai,India,4,$$$
+Malaka Spice,South Indian,Mumbai,India,4.4,$$$
+Copper Chimney,South Indian,Kerala,India,5,$
+O Pedro,Fusion,Mumbai,India,4.9,$$
+Indigo Deli,Italian,Pune,India,3.5,$$
+SodaBottleOpenerWala,Indian,Bengaluru,India,4,$$$$
+The Seafood Restaurant,Italian,Maharashtra,India,3.6,$$$$
+Indigo Deli,Indian,Mumbai,India,4,$$$
+Bombay Canteen,North Indian,Pune,India,4,$$$$
+Mahesh Lunch Home,Seafood,New Delhi,India,4.8,$$
+Cafe Madras,North Indian,Maharashtra,India,4.8,$$$$
+Shree Thaker Bhojanalay,Fusion,Mumbai,India,4.6,$$
+Britannia & Co.,Vegan,Mumbai,India,4.6,$
+Mamagoto,Vegan,New Delhi,India,4.5,$$$$
+Gajalee,North Indian,Kerala,India,3.9,$$$
+SodaBottleOpenerWala,Indian,Bengaluru,India,4.3,$$
+Farzi Café,Italian,Pune,India,3.9,$
+Karavalli,Vegan,Mumbai,India,4.9,$$
+Dakshin,North Indian,Mumbai,India,4.4,$$$$
+The Table,South Indian,Pune,India,4.9,$
+Britannia & Co.,Seafood,New Delhi,India,4.1,$$
+The Fatty Bao,North Indian,Kerala,India,4.6,$$
+Copper Chimney,Seafood,Mumbai,India,4.4,$$
+The Leela,North Indian,Kerala,India,4.4,$
+Chin Lung,Seafood,Kerala,India,4.6,$
+Mamagoto,South Indian,Maharashtra,India,3.8,$
+Peshawri,Italian,Mumbai,India,3.8,$$$$
+The Table,Italian,Mumbai,India,4.6,$
+Sheraton Feast,Italian,Maharashtra,India,4.5,$$$$
+Olive Bar & Kitchen,Fusion,Maharashtra,India,3.9,$$
+Trishna,Fusion,Mumbai,India,4.2,$$$
+Sheraton Feast,North Indian,Bengaluru,India,4.7,$
+Mahesh Lunch Home,Seafood,Mumbai,India,4.4,$$
+Indigo Deli,Chinese,Mumbai,India,3.6,$$$
+Le Cirque,Vegan,New Delhi,India,4.4,$$
+Arsalan,Vegan,Pune,India,4.3,$$
+The Flying Elephant,Seafood,Pune,India,4.5,$$$
+Olive Bar & Kitchen,North Indian,New Delhi,India,4.5,$$$
+Empire,North Indian,Kerala,India,3.9,$$$$
+Cafe Madras,Seafood,Kerala,India,4.3,$$$$
+Trishna,Chinese,Maharashtra,India,4,$$
+Cafe Madras,Chinese,Bengaluru,India,3.6,$$$
+Saravana Bhavan,Seafood,Pune,India,3.7,$$$$
+Olive Bar & Kitchen,South Indian,Mumbai,India,4.3,$$$
+Koshy’s,Chinese,Bengaluru,India,3.9,$$
+Malaka Spice,Fusion,Mumbai,India,3.9,$$
+Le Cirque,North Indian,Mumbai,India,3.9,$$
+Shree Thaker Bhojanalay,Fusion,Pune,India,4.3,$$$$
+Kebabs & Kurries,Fusion,New Delhi,India,3.8,$
+Bombay Canteen,Fusion,Bengaluru,India,3.7,$$$$
+The Seafood Restaurant,North Indian,Pune,India,4.8,$$$
+Sheraton Feast,Italian,Kerala,India,4.9,$
+The Fatty Bao,Seafood,Maharashtra,India,4.1,$$$
+Mahesh Lunch Home,Fusion,Kerala,India,3.8,$$
+Masque,Fusion,New Delhi,India,3.9,$
+Gajalee,North Indian,Mumbai,India,3.6,$
+Cafe Madras,North Indian,Mumbai,India,4.8,$
+Thalassa,Chinese,Kerala,India,4.7,$$$
+O Pedro,Vegan,Kerala,India,4.1,$$$
+Toit,Seafood,Bengaluru,India,5,$$$
+Malaka Spice,North Indian,Kerala,India,4.8,$$
+Peshawri,Italian,Maharashtra,India,4.9,$$$$
+Farzi Café,Fusion,Maharashtra,India,3.5,$$
+Toit,North Indian,Mumbai,India,4.1,$$
+The Fatty Bao,Chinese,Pune,India,4.6,$$
+Karavalli,Vegan,Pune,India,4.6,$
+MTR,Fusion,Kerala,India,3.6,$$$
+Gajalee,Vegan,New Delhi,India,3.8,$$
+The Flying Elephant,Vegan,Bengaluru,India,3.6,$$$
+The Fatty Bao,Vegan,Kerala,India,4.3,$$$$
+Social,Indian,Pune,India,4.3,$$$
+Thalassa,Indian,Maharashtra,India,3.5,$$
+Bukhara,South Indian,Bengaluru,India,4.4,$
+Arsalan,Italian,Maharashtra,India,4.6,$$$$
+Peshawri,Vegan,Pune,India,4.4,$$$$
+The Seafood Restaurant,South Indian,New Delhi,India,4.5,$$$
+Kebabs & Kurries,Fusion,Mumbai,India,3.7,$$$$
+Bukhara,South Indian,Pune,India,4.5,$$$
+Thalassa,Indian,Mumbai,India,4.5,$
+Mahesh Lunch Home,Vegan,Pune,India,4.7,$
+SodaBottleOpenerWala,South Indian,Mumbai,India,4.6,$$$$
+Britannia & Co.,Indian,New Delhi,India,4.3,$$
+Copper Chimney,Italian,New Delhi,India,4.9,$$
+Cafe Madras,Fusion,Mumbai,India,4.5,$$$
+MTR,Fusion,Kerala,India,3.8,$
+Barbeque Nation,Indian,New Delhi,India,3.8,$$
+Olive Bar & Kitchen,Vegan,New Delhi,India,4.2,$
+Barbeque Nation,South Indian,Bengaluru,India,4.1,$$
+Chin Lung,North Indian,Pune,India,3.8,$
+Arsalan,South Indian,Maharashtra,India,3.6,$
+The Leela,Indian,Kerala,India,4.7,$
+Saravana Bhavan,Indian,Kerala,India,3.8,$
+O Pedro,Fusion,New Delhi,India,4.1,$$
+Indigo Deli,South Indian,Mumbai,India,5,$
+Kebabs & Kurries,South Indian,Maharashtra,India,4.2,$
+Cafe Madras,Fusion,New Delhi,India,4.2,$$$$
+Farzi Café,Seafood,New Delhi,India,4.5,$$$
+Gajalee,Indian,Kerala,India,4.5,$$$$
+Koshy’s,North Indian,Pune,India,4.5,$$$$
+Copper Chimney,Seafood,Kerala,India,4.5,$$$$
+Barbeque Nation,Seafood,Mumbai,India,3.9,$
+Thalassa,South Indian,Maharashtra,India,4.7,$$$$
+Indian Accent,Indian,New Delhi,India,4.2,$
+Bukhara,Vegan,New Delhi,India,4.3,$$$$
+Shree Thaker Bhojanalay,Chinese,New Delhi,India,4.7,$
+The Flying Elephant,South Indian,Mumbai,India,4,$
+Empire,Chinese,Kerala,India,4.1,$$
+Britannia & Co.,Italian,Maharashtra,India,4.4,$$$$
+Farzi Café,Vegan,Pune,India,4.4,$
+Mahesh Lunch Home,Indian,New Delhi,India,3.9,$$$$
+Koshy’s,Indian,Bengaluru,India,3.8,$$$
+Mahesh Lunch Home,Vegan,Pune,India,3.9,$
+Malaka Spice,Chinese,Maharashtra,India,3.6,$
+Empire,Fusion,New Delhi,India,4.4,$
+Gajalee,Italian,Kerala,India,3.6,$$$$
+MTR,Fusion,New Delhi,India,5,$$$
+Cafe Madras,North Indian,Bengaluru,India,4.1,$$
+The Leela,Chinese,Kerala,India,4.7,$$$$
+Olive Bar & Kitchen,Indian,New Delhi,India,3.9,$$$$
+Karavalli,Vegan,Kerala,India,4.1,$
+Cafe Madras,Fusion,New Delhi,India,4.1,$$
+The Leela,Vegan,Maharashtra,India,4,$$$$
+Yauatcha,Fusion,Maharashtra,India,3.6,$
+Bombay Canteen,North Indian,Maharashtra,India,4.8,$$$$
+MTR,Vegan,Pune,India,4.4,$$
+Shree Thaker Bhojanalay,North Indian,Maharashtra,India,4.8,$$
+Cafe Madras,Vegan,Kerala,India,4.5,$$$
+Chin Lung,Seafood,New Delhi,India,3.7,$
+Chin Lung,Fusion,Maharashtra,India,4.3,$$$$
+Le Cirque,Vegan,New Delhi,India,4,$$
+Empire,Chinese,New Delhi,India,4.3,$$
+Shree Thaker Bhojanalay,Vegan,Kerala,India,4.2,$$$$
+Masque,Vegan,Kerala,India,4.8,$
+Empire,Fusion,Maharashtra,India,4.2,$$$$
+Thalassa,North Indian,Maharashtra,India,3.7,$$$$
+Malaka Spice,Chinese,Bengaluru,India,4.8,$$$$
+The Leela,Indian,Pune,India,3.9,$$$$
+O Pedro,Italian,Mumbai,India,4.4,$
+Chin Lung,Vegan,New Delhi,India,4,$$$
+Indian Accent,Vegan,New Delhi,India,4.3,$
+Saravana Bhavan,Indian,Kerala,India,4.8,$$
+O Pedro,Vegan,New Delhi,India,4.6,$
+Arsalan,Fusion,Kerala,India,4.5,$
+Social,Italian,Mumbai,India,3.7,$$$$
+Toit,North Indian,Pune,India,4.3,$$$$
+The Table,Indian,Mumbai,India,4.2,$$$
+Bukhara,Indian,Maharashtra,India,3.7,$$
+Empire,Vegan,Mumbai,India,4.2,$
+Dakshin,South Indian,Maharashtra,India,3.7,$$$
+Yauatcha,Chinese,Pune,India,4.1,$$$$
+Social,Vegan,Kerala,India,4,$$$
+MTR,Fusion,New Delhi,India,4.5,$
+Gajalee,North Indian,Bengaluru,India,3.8,$$$$
+Cafe Madras,South Indian,Kerala,India,4.7,$$
+Yauatcha,Indian,New Delhi,India,3.5,$
+O Pedro,Chinese,Pune,India,5,$
+Toit,Seafood,Mumbai,India,4.6,$$$
+The Table,North Indian,Maharashtra,India,4.7,$$
+SodaBottleOpenerWala,Chinese,Bengaluru,India,4,$$
+Saravana Bhavan,Seafood,Pune,India,4,$$$
+Thalassa,Indian,Pune,India,4.7,$$$
+Peshawri,Indian,New Delhi,India,3.7,$$
+Kebabs & Kurries,South Indian,Maharashtra,India,3.8,$$$
+Britannia & Co.,North Indian,Bengaluru,India,4.7,$$$
+Thalassa,Vegan,Mumbai,India,4.3,$
+O Pedro,North Indian,Kerala,India,4.2,$$$$
+Kebabs & Kurries,Indian,Mumbai,India,4,$
+Empire,North Indian,Bengaluru,India,3.6,$$$$
+Gajalee,Chinese,New Delhi,India,3.9,$
+The Flying Elephant,Seafood,New Delhi,India,3.7,$
+Toit,Vegan,Kerala,India,4.6,$
+Mamagoto,Fusion,Kerala,India,4.2,$$
+Indian Accent,Chinese,Pune,India,4.7,$
+Bukhara,Indian,Maharashtra,India,3.6,$
+Toit,North Indian,Kerala,India,4.4,$$$$
+Peshawri,Indian,Kerala,India,4.9,$$$$
+Bombay Canteen,Vegan,Kerala,India,4.3,$$
+The Table,Fusion,Mumbai,India,4.7,$$
+Yauatcha,Italian,Pune,India,4,$$$$
+Gajalee,South Indian,Maharashtra,India,4.3,$$$$
+Social,North Indian,Pune,India,4.9,$$$$
+Sheraton Feast,Fusion,Mumbai,India,4.6,$$
+MTR,South Indian,Maharashtra,India,3.8,$
+Toit,Italian,Pune,India,3.8,$
+Farzi Café,Seafood,Mumbai,India,4,$
+Arsalan,Indian,New Delhi,India,3.6,$$$$
+Shree Thaker Bhojanalay,Italian,New Delhi,India,4.4,$$
+Cafe Madras,North Indian,Pune,India,3.5,$$$
+Le Cirque,South Indian,Bengaluru,India,4.6,$$$
+Bombay Canteen,Vegan,New Delhi,India,3.7,$$$$
+Copper Chimney,Vegan,Kerala,India,3.8,$$$$
+The Leela,South Indian,Mumbai,India,4.7,$$$$
+Barbeque Nation,Vegan,Mumbai,India,5,$
+The Table,South Indian,Kerala,India,3.5,$$$$
+The Fatty Bao,North Indian,Bengaluru,India,5,$
+Mamagoto,Chinese,Bengaluru,India,4.1,$$$
+Sheraton Feast,Seafood,Kerala,India,3.9,$
+Indian Accent,South Indian,New Delhi,India,4.4,$$$$
+Karavalli,Vegan,Pune,India,3.5,$$$
+The Leela,Chinese,Bengaluru,India,3.8,$
+Cafe Madras,Italian,Bengaluru,India,4.8,$
+Le Cirque,Vegan,Pune,India,3.5,$$$$
+Chin Lung,Chinese,Maharashtra,India,3.7,$$
+The Seafood Restaurant,Seafood,Bengaluru,India,3.5,$
+The Seafood Restaurant,Seafood,Pune,India,3.8,$$$$
+Thalassa,Italian,Mumbai,India,4.3,$
+MTR,Indian,Bengaluru,India,4.2,$$$$
+Bukhara,Fusion,Bengaluru,India,3.6,$
+The Fatty Bao,North Indian,New Delhi,India,3.7,$$$
+Chin Lung,Chinese,New Delhi,India,4.9,$$$$
+Mamagoto,Indian,Mumbai,India,4.4,$$
+Dakshin,Italian,Kerala,India,4.7,$
+Masque,Seafood,Pune,India,4.4,$
+Gajalee,Seafood,Maharashtra,India,4.5,$$
+Barbeque Nation,Vegan,Maharashtra,India,4.1,$$$$
+Zam Zam,Chinese,Bengaluru,India,4.8,$
+The Leela,Chinese,New Delhi,India,4.3,$$$
+Yauatcha,Seafood,Maharashtra,India,4.7,$$$$
+Empire,Indian,Pune,India,3.9,$$$$
+SodaBottleOpenerWala,Seafood,New Delhi,India,4.2,$$$
+Cafe Madras,South Indian,Maharashtra,India,3.6,$$
+Thalassa,Vegan,Kerala,India,3.8,$$$
+Thalassa,South Indian,Bengaluru,India,4.6,$$$$
+Farzi Café,Chinese,New Delhi,India,4.2,$$$$
+Kebabs & Kurries,Vegan,Bengaluru,India,4.1,$$
+Chin Lung,Indian,Mumbai,India,3.9,$$
+The Table,North Indian,Kerala,India,4,$$
+Le Cirque,Indian,Pune,India,4.5,$
+Le Cirque,South Indian,Bengaluru,India,4.8,$
+Cafe Madras,Italian,Bengaluru,India,4.6,$
+Mahesh Lunch Home,Italian,Mumbai,India,4.8,$$$
+Trishna,Fusion,Kerala,India,4.2,$
+Yauatcha,Indian,Pune,India,4.5,$$
+Thalassa,North Indian,Kerala,India,4.3,$$$$
+Kebabs & Kurries,South Indian,Pune,India,3.9,$$$$
+The Table,Fusion,Pune,India,4.5,$$$
+Masque,Vegan,Maharashtra,India,4.4,$$$$
+The Flying Elephant,Italian,Pune,India,3.7,$$$
+Chin Lung,Italian,Mumbai,India,4.7,$$$$
+Copper Chimney,South Indian,Maharashtra,India,4,$$$
+Olive Bar & Kitchen,Chinese,Kerala,India,3.8,$$$
+O Pedro,Vegan,Mumbai,India,4.2,$
+Koshy’s,Vegan,Kerala,India,3.7,$
+Kebabs & Kurries,Indian,Bengaluru,India,4.7,$$$
+Koshy’s,North Indian,Maharashtra,India,4.8,$$$
+Indigo Deli,South Indian,New Delhi,India,5,$$$$
+Bombay Canteen,Indian,Bengaluru,India,3.7,$$$
+Sheraton Feast,North Indian,Kerala,India,4.8,$$
+Gajalee,South Indian,Kerala,India,4.4,$$$$
+O Pedro,Indian,Pune,India,3.6,$$
+Mahesh Lunch Home,Chinese,Bengaluru,India,3.6,$$$
+Masque,Vegan,Kerala,India,4.2,$$
+Malaka Spice,Vegan,Kerala,India,4.8,$
+The Flying Elephant,Italian,Mumbai,India,4.9,$$
+Toit,Fusion,Maharashtra,India,4.1,$
+The Seafood Restaurant,Indian,New Delhi,India,4.4,$$
+Cafe Madras,North Indian,Bengaluru,India,4.1,$
+Mamagoto,Fusion,Kerala,India,4.3,$$$$
+Bombay Canteen,Vegan,New Delhi,India,3.9,$$$$
+The Table,Indian,Mumbai,India,4.3,$$$
+Shree Thaker Bhojanalay,Vegan,Mumbai,India,3.6,$$$
+Britannia & Co.,Fusion,Kerala,India,4.3,$$$$
+Karavalli,Vegan,Kerala,India,4.3,$$
+Karavalli,Italian,Mumbai,India,4.7,$$$$
+MTR,South Indian,New Delhi,India,4,$
+Koshy’s,Vegan,New Delhi,India,3.6,$$$$
+Shree Thaker Bhojanalay,Fusion,Maharashtra,India,4.7,$
+SodaBottleOpenerWala,Chinese,Kerala,India,4.2,$
+MTR,Seafood,Bengaluru,India,5,$$
+Malaka Spice,Vegan,Kerala,India,3.9,$$
+Bombay Canteen,Chinese,Maharashtra,India,3.6,$
+Mahesh Lunch Home,Vegan,Pune,India,4.5,$$
+Shree Thaker Bhojanalay,North Indian,Kerala,India,4.1,$
+Kebabs & Kurries,Chinese,Maharashtra,India,4.2,$
+Mamagoto,Indian,New Delhi,India,3.5,$$
+Le Cirque,Vegan,New Delhi,India,4.6,$$
+Malaka Spice,Vegan,Kerala,India,4.2,$$
+Barbeque Nation,Fusion,Maharashtra,India,4.8,$$
+Britannia & Co.,Italian,New Delhi,India,4.4,$$$
+Koshy’s,North Indian,Mumbai,India,4.8,$$$$
+Gajalee,Seafood,Kerala,India,4.3,$
+Arsalan,Chinese,New Delhi,India,3.7,$$$
+Dakshin,Italian,New Delhi,India,4.7,$
+The Leela,Seafood,Bengaluru,India,4,$
+Sheraton Feast,Italian,New Delhi,India,3.8,$$$
+Le Cirque,Vegan,Maharashtra,India,4,$$$
+The Seafood Restaurant,Fusion,Kerala,India,5,$$$
+Mahesh Lunch Home,North Indian,Mumbai,India,4.6,$$$
+Kebabs & Kurries,Vegan,Mumbai,India,4.7,$
+Thalassa,Fusion,Bengaluru,India,3.6,$$$$
+Olive Bar & Kitchen,Italian,Maharashtra,India,4.4,$$$$
+The Seafood Restaurant,Indian,New Delhi,India,4.9,$
+Yauatcha,Fusion,Pune,India,3.8,$$$$
+The Table,Chinese,Maharashtra,India,4.3,$
+Toit,Italian,Maharashtra,India,4.2,$$$$
+Masque,Vegan,Pune,India,4.2,$
+The Flying Elephant,Vegan,Mumbai,India,4.1,$$
+Farzi Café,Indian,Bengaluru,India,4.4,$$
+Chin Lung,Chinese,Mumbai,India,3.9,$$
+MTR,Indian,Pune,India,4.3,$$
+Zam Zam,South Indian,Bengaluru,India,4.2,$$$$
+Zam Zam,Vegan,Bengaluru,India,4.8,$$$$
+Gajalee,Vegan,Mumbai,India,4.3,$$
+Chin Lung,Seafood,Pune,India,3.7,$$
+MTR,Fusion,Kerala,India,4,$$$$
+Barbeque Nation,Vegan,Pune,India,4.3,$
+Malaka Spice,North Indian,Bengaluru,India,4.2,$$$$
+Sheraton Feast,Indian,Pune,India,4.2,$$$$
+Indigo Deli,Chinese,Pune,India,4.3,$$
+Toit,Chinese,Bengaluru,India,3.7,$$
+Gajalee,Chinese,New Delhi,India,4.1,$$
+Zam Zam,Italian,Kerala,India,3.8,$$$$
+O Pedro,Fusion,Maharashtra,India,3.6,$$$
+Koshy’s,Seafood,New Delhi,India,3.5,$$$
+Indian Accent,Indian,Mumbai,India,5,$$
+Bombay Canteen,Seafood,Pune,India,3.7,$$
+Le Cirque,Italian,Mumbai,India,4.8,$
+Chin Lung,South Indian,Maharashtra,India,5,$$$$
+Gajalee,South Indian,Mumbai,India,3.9,$$
+Saravana Bhavan,Italian,Bengaluru,India,4.2,$$$
+Saravana Bhavan,Italian,Maharashtra,India,4.1,$$$
+Gajalee,Italian,Maharashtra,India,4.4,$$
+Mamagoto,North Indian,Bengaluru,India,4,$$$$
+Dakshin,South Indian,Maharashtra,India,4.4,$$$
+Cafe Madras,South Indian,Kerala,India,5,$$
+Yauatcha,South Indian,Mumbai,India,3.8,$$
+Gajalee,Italian,Maharashtra,India,4.5,$$$
+Malaka Spice,Vegan,Kerala,India,4.5,$$$
+Gajalee,Indian,Kerala,India,4.9,$$
+Malaka Spice,Seafood,Mumbai,India,4.2,$$$
+SodaBottleOpenerWala,Indian,Pune,India,3.7,$$$$
+SodaBottleOpenerWala,Chinese,Pune,India,4.8,$$$$
+Gajalee,Italian,New Delhi,India,3.9,$$$$
+The Fatty Bao,Vegan,Bengaluru,India,4.7,$$$
+Thalassa,North Indian,Mumbai,India,4.5,$
+Peshawri,Italian,New Delhi,India,4.7,$
+Le Cirque,Seafood,New Delhi,India,3.6,$$$
+The Leela,Seafood,Pune,India,4.7,$$$
+Shree Thaker Bhojanalay,Fusion,Kerala,India,4.9,$$
+The Seafood Restaurant,Seafood,Mumbai,India,3.7,$$$$
+Mamagoto,Chinese,Kerala,India,3.9,$
+Barbeque Nation,South Indian,Kerala,India,4.3,$$$
+SodaBottleOpenerWala,Fusion,Pune,India,4.7,$$$
+Olive Bar & Kitchen,Italian,Bengaluru,India,4,$$
+Bukhara,Italian,New Delhi,India,3.9,$$$$
+Yauatcha,Seafood,Bengaluru,India,4.9,$$$
+Barbeque Nation,Fusion,Kerala,India,4.5,$$$$
+Arsalan,North Indian,Bengaluru,India,3.6,$
+Mamagoto,North Indian,Maharashtra,India,3.7,$$$
+Mamagoto,Italian,New Delhi,India,4.9,$$$$
+Gajalee,North Indian,Mumbai,India,3.7,$$$$
+Chin Lung,Indian,Maharashtra,India,3.7,$$
+Sheraton Feast,North Indian,Kerala,India,4.8,$$$
+Farzi Café,South Indian,Bengaluru,India,4,$
+O Pedro,Italian,Pune,India,4.5,$
+Indian Accent,North Indian,Pune,India,4.7,$$$
+Toit,North Indian,Bengaluru,India,4.2,$
+Dakshin,South Indian,Mumbai,India,5,$$
+Sheraton Feast,Fusion,Mumbai,India,4.8,$$$$
+Cafe Madras,Fusion,Kerala,India,3.9,$$$$
+Chin Lung,Fusion,Pune,India,3.9,$$$
+The Flying Elephant,North Indian,Kerala,India,4.5,$$$
+Mahesh Lunch Home,Vegan,Mumbai,India,4.1,$$
+The Table,Seafood,New Delhi,India,4.6,$$$
+Shree Thaker Bhojanalay,Chinese,Pune,India,3.7,$$$$
+Zam Zam,South Indian,Bengaluru,India,4.6,$$
+Malaka Spice,Indian,New Delhi,India,3.9,$
+Peshawri,Seafood,Kerala,India,3.9,$$$$
+Toit,Vegan,New Delhi,India,4.8,$$$$
+Peshawri,Indian,Bengaluru,India,4.3,$
+Le Cirque,Chinese,Pune,India,4.4,$
+Indigo Deli,Italian,Pune,India,4.5,$
+Gajalee,Vegan,Mumbai,India,3.7,$$$
+Masque,Fusion,Pune,India,4.2,$
+Chin Lung,Italian,Bengaluru,India,4.4,$$$$
+The Table,Seafood,Kerala,India,4.5,$$$
+Bukhara,Indian,Kerala,India,4.1,$
+SodaBottleOpenerWala,Fusion,Pune,India,3.6,$
+Bukhara,North Indian,Kerala,India,4.3,$$
+Bukhara,Italian,Bengaluru,India,3.7,$$$$
+Le Cirque,South Indian,Bengaluru,India,4.8,$$$
+Karavalli,Vegan,New Delhi,India,4.7,$$$$
+Shree Thaker Bhojanalay,Seafood,New Delhi,India,4.7,$$
+Bukhara,North Indian,Bengaluru,India,4.7,$$
+Malaka Spice,Indian,Bengaluru,India,4.8,$$$
+Sheraton Feast,Indian,New Delhi,India,4.8,$$$$
+Mamagoto,Fusion,Maharashtra,India,3.9,$
+Toit,Indian,Maharashtra,India,4.8,$$
+Koshy’s,North Indian,Maharashtra,India,3.9,$$
+Bombay Canteen,Indian,Maharashtra,India,3.8,$
+Olive Bar & Kitchen,Chinese,Bengaluru,India,3.6,$$
+Bukhara,Vegan,Pune,India,4.3,$$
+Arsalan,South Indian,Maharashtra,India,4.7,$
+Toit,South Indian,New Delhi,India,4.8,$
+Copper Chimney,Vegan,Pune,India,4.8,$$$$
+Trishna,Indian,Maharashtra,India,3.7,$
+Farzi Café,Vegan,Maharashtra,India,4.9,$$$$
+Saravana Bhavan,Indian,Maharashtra,India,3.7,$
+Copper Chimney,South Indian,Mumbai,India,4.7,$$
+Empire,South Indian,New Delhi,India,4.3,$$
+Copper Chimney,Indian,Maharashtra,India,4.6,$
+The Flying Elephant,Chinese,Maharashtra,India,4.8,$$$
+Koshy’s,Seafood,New Delhi,India,3.6,$$
+Farzi Café,South Indian,Pune,India,3.6,$
+Yauatcha,Chinese,Bengaluru,India,3.6,$$
+SodaBottleOpenerWala,Chinese,Bengaluru,India,4.4,$$$$
+Malaka Spice,Indian,Maharashtra,India,4.1,$$
+The Table,Fusion,Mumbai,India,4.5,$
+The Fatty Bao,Vegan,Pune,India,4.1,$
+The Fatty Bao,South Indian,Maharashtra,India,4.3,$$
+Bukhara,Fusion,Mumbai,India,4.2,$
+O Pedro,Italian,Kerala,India,4.4,$$$
+Empire,Fusion,Bengaluru,India,4.5,$$$$
+Olive Bar & Kitchen,Chinese,Kerala,India,4.4,$$$
+Gajalee,Vegan,Mumbai,India,4.9,$$$$
+Gajalee,Seafood,Mumbai,India,3.7,$$
+Shree Thaker Bhojanalay,North Indian,Mumbai,India,4.9,$
+Bombay Canteen,South Indian,Kerala,India,4.2,$$
+Koshy’s,Indian,Pune,India,4.8,$
+Indian Accent,Fusion,Bengaluru,India,4.7,$$$
+Shree Thaker Bhojanalay,Seafood,Mumbai,India,4.6,$$
+Koshy’s,Vegan,Maharashtra,India,4.1,$$$
+Thalassa,Italian,Kerala,India,4.6,$$
+The Table,Vegan,Kerala,India,4.3,$$
+Sheraton Feast,Indian,Kerala,India,4.3,$$
+Farzi Café,South Indian,Mumbai,India,4.8,$
+,,,,,
+Restaurant Name,Cuisine,City,State,Rating,Price Range
+Raan Jay Fai,Fusion,Madrid,Europe,4.2,$$$$
+Alinea,Contemporary,Cairo,Africa,4.2,$$$$
+D.O.M.,Vegan,Dubai,Middle East,4.8,$$
+Narisawa,Fusion,Rome,Europe,3.5,$
+Gaggan,Contemporary,Buenos Aires,South America,3.7,$$
+Pujol,Modern,Johannesburg,Africa,3.7,$$$
+Core by Clare Smyth,Contemporary,Sydney,Australia Pacific,4.2,$$
+La Mar,Mediterranean,Istanbul,Middle East,3.5,$$$$
+Test Kitchen,Contemporary,Lima,Central America,4.3,$$$
+Mishiguene,Mediterranean,Beirut,Middle East,3.5,$$$
+L’Arpège,Fusion,Barcelona,Europe,3.5,$$$$
+Attica,Seafood,Dubai,Middle East,4.2,$$$
+Rafael,Latin American,Santiago,South America,3.6,$
+L’Arpège,Modern,Cairo,Africa,4.1,$
+Alain Ducasse,French,Santiago,South America,4.6,$
+L'Ambroisie,French,Cairo,Africa,4.2,$$$
+Test Kitchen,Contemporary,Perth,Australia Pacific,5,$$$
+Mishiguene,Asian,Rio de Janeiro,South America,4.5,$
+Eleven Madison Park,Seafood,Johannesburg,Africa,4.7,$$$
+La Colombe,Mediterranean,Madrid,Europe,4.3,$$$
+Fyn,Modern,Caracas,South America,4,$$
+Mirazur,Seafood,Marrakesh,Africa,3.9,$$$
+D.O.M.,Fusion,Rio de Janeiro,South America,3.6,$$$
+Cosme,Modern,Marrakesh,Africa,3.7,$$
+Oro,Contemporary,São Paulo,South America,3.7,$$$
+Test Kitchen,Fusion,Beirut,Middle East,4.7,$$$
+Septime,Mediterranean,Istanbul,Middle East,4,$$$
+Raan Jay Fai,Contemporary,Cairo,Africa,4.5,$
+Test Kitchen,French,Caracas,South America,4.5,$$$$
+Tetsuya's,French,Beirut,Middle East,3.5,$$
+El Celler de Can Roca,Vegan,Santiago,South America,3.6,$$$
+Fyn,Vegan,Lima,Central America,4.5,$$$$
+Fyn,Vegan,Bogotá,South America,3.9,$
+El Celler de Can Roca,Latin American,Beirut,Middle East,4.2,$
+Narisawa,Asian,Santiago,South America,3.6,$
+La Colombe,Contemporary,Tel Aviv,Middle East,5,$
+La Mar,Seafood,Paris,Europe,3.6,$$$
+Tegui,Latin American,Tel Aviv,Middle East,4.8,$$$$
+Cosme,French,Perth,Australia Pacific,4.8,$
+L’Arpège,Contemporary,Marrakesh,Africa,4.4,$$$
+Rafael,Modern,Cape Town,Africa,4.7,$$
+Mirazur,Seafood,Barcelona,Europe,4.5,$$
+Arzak,French,Cairo,Africa,4.5,$$
+Rafael,French,Buenos Aires,South America,4.3,$$
+Alain Ducasse,Latin American,Sydney,Australia Pacific,3.9,$$$
+Maní,French,Berlin,Europe,4.9,$$
+Test Kitchen,French,Cairo,Africa,4.5,$$
+Attica,Contemporary,Buenos Aires,South America,4.6,$
+Brae,Asian,São Paulo,South America,4.1,$
+Raan Jay Fai,Asian,Rio de Janeiro,South America,4.9,$$$$
+Brae,French,Auckland,Australia Pacific,4,$$$
+L'Ambroisie,Fusion,São Paulo,South America,4.4,$$
+La Mar,Seafood,Santiago,South America,4.7,$
+Eleven Madison Park,Latin American,Perth,Australia Pacific,4.9,$$$$
+Alain Ducasse,Asian,Marrakesh,Africa,4.8,$
+Quay,Vegan,London,Europe,4.5,$
+Odeon,Modern,Bogotá,South America,4.2,$$
+Mishiguene,Modern,Bogotá,South America,4.6,$$$$
+Quay,Modern,Mexico City,Central America,3.8,$$$$
+L’Arpège,Vegan,Perth,Australia Pacific,4.8,$$
+Septime,Mediterranean,Rio de Janeiro,South America,4.7,$$
+Arzak,Latin American,Madrid,Europe,4,$$$$
+Central,Latin American,Caracas,South America,3.6,$$$$
+La Mar,Mediterranean,Santiago,South America,4.8,$$$
+Dinner by Heston Blumenthal,Fusion,Rio de Janeiro,South America,4.3,$$
+Azurmendi,Modern,Sydney,Australia Pacific,3.7,$$
+Astrid y Gastón,Modern,Brisbane,Australia Pacific,4.3,$$
+Tegui,Latin American,Rome,Europe,4.4,$$$$
+Mirazur,French,Madrid,Europe,4,$$$
+Fasano,Fusion,Berlin,Europe,4.1,$
+Alinea,Vegan,Tel Aviv,Middle East,4.5,$
+Mishiguene,Modern,Cape Town,Africa,3.8,$$$
+Alain Ducasse,Asian,Berlin,Europe,4.6,$$$$
+Narisawa,Latin American,Marrakesh,Africa,3.7,$$
+Attica,Fusion,Berlin,Europe,3.5,$
+D.O.M.,Contemporary,Tel Aviv,Middle East,4.2,$$$
+Azurmendi,Fusion,Cairo,Africa,4.2,$$$$
+Brae,Fusion,Brisbane,Australia Pacific,3.9,$
+Oro,Modern,Cairo,Africa,4.4,$
+Attica,Seafood,Berlin,Europe,4.7,$$
+Odeon,French,London,Europe,4.2,$$$
+Maní,French,Santiago,South America,4.1,$$
+Core by Clare Smyth,French,Tel Aviv,Middle East,4.9,$$$
+Attica,Asian,Lima,Central America,4.2,$$$
+El Celler de Can Roca,Fusion,Caracas,South America,4.7,$$
+Raan Jay Fai,Modern,Vienna,Europe,4.7,$$
+Azurmendi,Contemporary,Sydney,Australia Pacific,4.7,$$$$
+Test Kitchen,Seafood,London,Europe,3.7,$$
+Brae,Asian,Lima,Central America,4.3,$
+Central,French,Rome,Europe,4.8,$$
+Fyn,Mediterranean,Auckland,Australia Pacific,4.1,$$
+Pujol,Vegan,Bogotá,South America,4.9,$$$$
+Tetsuya's,Modern,Santiago,South America,4.7,$$
+Mishiguene,Asian,Caracas,South America,4.4,$$
+Pujol,Contemporary,Dubai,Middle East,4.7,$
+Fyn,Vegan,Cape Town,Africa,4.8,$$
+Mishiguene,Mediterranean,Bogotá,South America,4.3,$$$
+Raan Jay Fai,Modern,Auckland,Australia Pacific,4.5,$$$
+Narisawa,Seafood,Caracas,South America,4,$$
+Maní,Vegan,Perth,Australia Pacific,4.9,$$
+La Colombe,Seafood,Perth,Australia Pacific,4.5,$
+Septime,Fusion,Caracas,South America,3.5,$$
+Fasano,Contemporary,Madrid,Europe,4.4,$$$
+L'Ambroisie,Contemporary,Barcelona,Europe,4.7,$
+Rafael,Fusion,Johannesburg,Africa,3.9,$
+Mishiguene,Seafood,Rio de Janeiro,South America,4.7,$$$$
+Mishiguene,Asian,Barcelona,Europe,4.2,$$
+The Ledbury,Latin American,Rio de Janeiro,South America,3.9,$$$$
+Narisawa,Fusion,São Paulo,South America,4.3,$
+Raan Jay Fai,Seafood,Melbourne,Australia Pacific,3.8,$
+Central,Asian,Caracas,South America,4.7,$$
+Steirereck,Mediterranean,Buenos Aires,South America,4.4,$$$$
+Steirereck,Mediterranean,Berlin,Europe,3.9,$$
+Maido,Contemporary,Mexico City,Central America,4.9,$$$
+Core by Clare Smyth,Fusion,Caracas,South America,3.6,$$$$
+Pujol,Modern,Madrid,Europe,4.4,$$$$
+Maní,Contemporary,Istanbul,Middle East,3.6,$$$$
+Narisawa,Mediterranean,Rome,Europe,4.9,$$$$
+Alinea,Contemporary,Johannesburg,Africa,3.7,$
+Odeon,Mediterranean,Rome,Europe,4.5,$$
+Septime,Vegan,Sydney,Australia Pacific,5,$$$
+Odeon,Contemporary,Lima,Central America,5,$$$$
+Raan Jay Fai,French,Santiago,South America,4.1,$$$
+Boragó,Mediterranean,London,Europe,4.5,$
+Mishiguene,Asian,Melbourne,Australia Pacific,3.9,$$
+Fasano,Seafood,Cape Town,Africa,4,$
+Raan Jay Fai,Contemporary,Cairo,Africa,3.7,$$$$
+Cosme,French,Perth,Australia Pacific,3.6,$
+The Ledbury,Latin American,London,Europe,4.5,$$$
+Azurmendi,Contemporary,Melbourne,Australia Pacific,4.3,$
+Alain Ducasse,Seafood,Cairo,Africa,4.7,$$$
+Dinner by Heston Blumenthal,French,Tel Aviv,Middle East,4,$$$$
+L’Arpège,Fusion,São Paulo,South America,4.6,$$$
+Septime,Modern,Auckland,Australia Pacific,4.1,$
+Boragó,Seafood,Perth,Australia Pacific,4.3,$
+Mishiguene,Mediterranean,Lima,Central America,3.6,$
+Central,Asian,Auckland,Australia Pacific,3.6,$
+La Colombe,Fusion,Sydney,Australia Pacific,3.9,$$$$
+Mirazur,Fusion,Lima,Central America,4.6,$$$$
+Alinea,French,Mexico City,Central America,3.6,$
+Septime,Latin American,Sydney,Australia Pacific,4,$
+Alinea,Contemporary,Berlin,Europe,3.5,$$
+Fasano,Vegan,Berlin,Europe,4.9,$$$
+Alinea,French,Beirut,Middle East,4.8,$$$$
+Tegui,Mediterranean,Tel Aviv,Middle East,4.9,$
+Osteria Francescana,Modern,Mexico City,Central America,4.1,$$$$
+Raan Jay Fai,Mediterranean,Beirut,Middle East,3.5,$$$
+The Ledbury,Contemporary,Cairo,Africa,4.8,$$
+Steirereck,Vegan,Dubai,Middle East,4.8,$$$
+Oro,Seafood,Paris,Europe,4.3,$$$$
+Steirereck,Seafood,Marrakesh,Africa,3.6,$
+Osteria Francescana,Seafood,Marrakesh,Africa,4.4,$$$
+Mirazur,Vegan,Berlin,Europe,3.7,$$
+Oro,French,Mexico City,Central America,4.5,$$$
+Core by Clare Smyth,Fusion,Sydney,Australia Pacific,4.1,$$$$
+Alain Ducasse,Latin American,Cairo,Africa,4.8,$
+Narisawa,Modern,Lima,Central America,4.6,$$$
+Mirazur,Modern,Istanbul,Middle East,4.4,$$$$
+Azurmendi,Mediterranean,Caracas,South America,4.6,$$$
+Fasano,Contemporary,Santiago,South America,4.6,$$
+Raan Jay Fai,Vegan,São Paulo,South America,3.9,$$$$
+Boragó,Modern,London,Europe,3.6,$$$
+Core by Clare Smyth,Mediterranean,Bogotá,South America,4.4,$
+Alinea,French,Sydney,Australia Pacific,3.6,$$$
+Osteria Francescana,Contemporary,Cape Town,Africa,4.8,$$$
+Fasano,Mediterranean,Santiago,South America,4.6,$$$
+Eleven Madison Park,Seafood,Tel Aviv,Middle East,3.6,$$$
+Boragó,Contemporary,Auckland,Australia Pacific,4.9,$$
+Test Kitchen,Contemporary,Auckland,Australia Pacific,4.5,$$$
+Disfrutar,Asian,Rome,Europe,4,$$$$
+Boragó,Fusion,Perth,Australia Pacific,4.9,$$
+Rafael,Asian,Beirut,Middle East,3.8,$$$
+Pujol,Vegan,London,Europe,4.6,$$$
+Osteria Francescana,Asian,Johannesburg,Africa,4.2,$$$
+Mirazur,Asian,Istanbul,Middle East,4.8,$
+Central,Contemporary,São Paulo,South America,4.4,$$$$
+Pujol,Asian,Melbourne,Australia Pacific,4.3,$$$
+Oro,Latin American,Melbourne,Australia Pacific,4.1,$$
+Central,Mediterranean,Vienna,Europe,3.6,$
+La Colombe,French,Dubai,Middle East,3.8,$$$$
+Gaggan,Latin American,Buenos Aires,South America,4.4,$$$
+Mishiguene,Asian,São Paulo,South America,4.4,$$
+El Celler de Can Roca,Mediterranean,Dubai,Middle East,4.3,$$$
+Eleven Madison Park,Modern,Johannesburg,Africa,3.7,$
+Azurmendi,French,Beirut,Middle East,4.8,$$$$
+Alinea,Fusion,Mexico City,Central America,4.4,$$$
+Core by Clare Smyth,Asian,Vienna,Europe,4.4,$$$
+Tegui,Seafood,Cape Town,Africa,4.6,$$$
+L’Arpège,Latin American,Marrakesh,Africa,3.9,$$
+Fyn,Mediterranean,Perth,Australia Pacific,4.1,$$$$
+Fyn,Modern,Barcelona,Europe,4,$$$$
+La Colombe,Contemporary,Brisbane,Australia Pacific,3.5,$$
+El Celler de Can Roca,Latin American,Mexico City,Central America,4.4,$$$$
+Fyn,Asian,Buenos Aires,South America,3.8,$
+L'Ambroisie,Seafood,Istanbul,Middle East,4.3,$$$$
+Alain Ducasse,Modern,Vienna,Europe,3.7,$$$
+Arzak,French,Cape Town,Africa,4,$$
+Boragó,Asian,Dubai,Middle East,4.1,$$
+Tegui,Asian,Cairo,Africa,4.2,$$
+L’Arpège,Seafood,Tel Aviv,Middle East,4,$$
+Septime,French,Johannesburg,Africa,4.8,$
+La Mar,Asian,Cairo,Africa,3.8,$$
+Brae,Modern,Barcelona,Europe,4.7,$$$$
+Core by Clare Smyth,Mediterranean,Caracas,South America,3.5,$
+Central,Latin American,Perth,Australia Pacific,5,$$$$
+Brae,Vegan,Mexico City,Central America,4.9,$
+Brae,Vegan,Auckland,Australia Pacific,3.9,$
+Tegui,Latin American,Brisbane,Australia Pacific,4.6,$$
+Osteria Francescana,Modern,Rio de Janeiro,South America,4,$
+Arzak,Contemporary,Melbourne,Australia Pacific,3.7,$$$$
+Odeon,French,Tel Aviv,Middle East,4,$$$
+Tegui,Latin American,Cape Town,Africa,4.7,$$$$
+The Ledbury,Vegan,Cape Town,Africa,3.8,$$$$
+D.O.M.,Mediterranean,Dubai,Middle East,4.8,$$
+Septime,Seafood,Johannesburg,Africa,3.7,$
+Osteria Francescana,Modern,Tel Aviv,Middle East,4.9,$
+Mirazur,Modern,Cairo,Africa,4.6,$$$
+Raan Jay Fai,French,Rio de Janeiro,South America,3.7,$
+Raan Jay Fai,Seafood,Vienna,Europe,4.9,$$$$
+Attica,Seafood,Cairo,Africa,4.6,$$$$
+L'Ambroisie,Vegan,Johannesburg,Africa,4.8,$
+Disfrutar,Latin American,Santiago,South America,3.6,$$$$
+Alinea,Fusion,Buenos Aires,South America,4.5,$$$$
+L'Ambroisie,Mediterranean,Mexico City,Central America,4.3,$$
+Raan Jay Fai,Seafood,Beirut,Middle East,5,$
+Fyn,Seafood,Madrid,Europe,4.2,$$$
+Cosme,Contemporary,Rome,Europe,3.6,$$
+Test Kitchen,Latin American,Rome,Europe,4.5,$$
+L’Arpège,Vegan,Cairo,Africa,4,$$$
+Alinea,Mediterranean,Perth,Australia Pacific,4.4,$$$
+Steirereck,Mediterranean,London,Europe,4.4,$$$
+La Colombe,Latin American,Marrakesh,Africa,4.7,$$$
+Attica,Contemporary,Santiago,South America,3.7,$$$
+Azurmendi,Latin American,São Paulo,South America,3.7,$$$
+Central,Vegan,Cairo,Africa,4.1,$$$
+Tetsuya's,Seafood,Sydney,Australia Pacific,3.6,$$$$
+Eleven Madison Park,Latin American,Madrid,Europe,4.7,$$$$
+Dinner by Heston Blumenthal,Modern,Sydney,Australia Pacific,4.2,$$
+Narisawa,Modern,Mexico City,Central America,4.5,$$$
+Fyn,French,Mexico City,Central America,3.7,$$$$
+Oro,Latin American,Caracas,South America,4.2,$$$$
+Boragó,Mediterranean,Santiago,South America,4,$
+Central,Latin American,Caracas,South America,4,$$
+Dinner by Heston Blumenthal,Modern,Bogotá,South America,4,$$$
+Cosme,French,Lima,Central America,4.6,$$
+Alain Ducasse,Latin American,São Paulo,South America,4.1,$$
+Narisawa,Asian,Marrakesh,Africa,4.9,$
+Narisawa,Latin American,Rome,Europe,4.7,$$
+Tegui,Fusion,Brisbane,Australia Pacific,4.1,$$$
+Attica,Contemporary,Auckland,Australia Pacific,4.4,$
+Steirereck,Asian,Johannesburg,Africa,4.2,$
+Attica,Mediterranean,Caracas,South America,4,$$$
+Septime,Contemporary,Mexico City,Central America,4.4,$$
+Steirereck,French,Melbourne,Australia Pacific,4.9,$$$$
+Cosme,Latin American,Madrid,Europe,4.5,$
+La Mar,Mediterranean,Lima,Central America,3.8,$$$$
+Narisawa,Contemporary,Marrakesh,Africa,3.6,$$
+D.O.M.,Mediterranean,Barcelona,Europe,4.9,$$$$
+Osteria Francescana,Vegan,Melbourne,Australia Pacific,3.9,$$
+Dinner by Heston Blumenthal,Seafood,Vienna,Europe,4.2,$$$
+Astrid y Gastón,Modern,São Paulo,South America,4.3,$$$
+Tegui,Contemporary,Lima,Central America,4.3,$$$
+Eleven Madison Park,Modern,Caracas,South America,3.9,$$
+Brae,Contemporary,Beirut,Middle East,3.6,$$
+Tetsuya's,Vegan,Bogotá,South America,3.7,$$$
+Quay,Contemporary,Madrid,Europe,5,$
+L’Arpège,Vegan,Marrakesh,Africa,3.7,$$$
+Rafael,Seafood,Dubai,Middle East,4.5,$$$
+Steirereck,Modern,Cairo,Africa,4.6,$$
+Brae,Modern,Perth,Australia Pacific,3.8,$$
+Quay,Contemporary,Istanbul,Middle East,4.8,$
+Central,Contemporary,Mexico City,Central America,4,$$$$
+Cosme,Latin American,Cape Town,Africa,4.9,$
+Quay,Fusion,São Paulo,South America,4.1,$$
+Maní,Contemporary,Lima,Central America,3.6,$$$$
+La Mar,Contemporary,Rio de Janeiro,South America,4.8,$$
+Boragó,Latin American,Rio de Janeiro,South America,4,$$$$
+La Colombe,Mediterranean,Mexico City,Central America,4.9,$$
+Dinner by Heston Blumenthal,Seafood,Marrakesh,Africa,4.7,$$$
+La Colombe,Mediterranean,Istanbul,Middle East,4.4,$$
+Alain Ducasse,Asian,Rio de Janeiro,South America,4.8,$$$
+The Ledbury,Vegan,São Paulo,South America,4.6,$$
+Gaggan,Asian,Lima,Central America,4.6,$$$$
+Dinner by Heston Blumenthal,Contemporary,Rio de Janeiro,South America,4.7,$$$$
+Tetsuya's,Fusion,Mexico City,Central America,4.9,$
+Maní,Vegan,Dubai,Middle East,4.7,$$
+Arzak,French,Rio de Janeiro,South America,4.1,$$$$
+Fyn,Seafood,Mexico City,Central America,3.9,$$
+L’Arpège,Modern,Johannesburg,Africa,3.6,$$$$
+Central,Fusion,Caracas,South America,4.6,$$$$
+L'Ambroisie,Fusion,Caracas,South America,4,$$$
+Odeon,Contemporary,Buenos Aires,South America,4.6,$$$
+Mirazur,Asian,São Paulo,South America,3.9,$
+Narisawa,Contemporary,Caracas,South America,4.5,$
+Osteria Francescana,Modern,Paris,Europe,4.5,$$$
+Mishiguene,Seafood,Mexico City,Central America,4.7,$$
+Central,Latin American,Barcelona,Europe,3.7,$$
+Fyn,Mediterranean,Vienna,Europe,4.6,$
+Alain Ducasse,Seafood,Bogotá,South America,3.9,$$$
+Mirazur,Asian,Sydney,Australia Pacific,4.2,$
+El Celler de Can Roca,Fusion,Perth,Australia Pacific,4.5,$$
+Alinea,Vegan,Johannesburg,Africa,4.7,$
+Alain Ducasse,Contemporary,Santiago,South America,4.1,$
+Tegui,Contemporary,Cairo,Africa,4.5,$$$
+Mishiguene,Latin American,Madrid,Europe,4.7,$
+Attica,Seafood,Bogotá,South America,4.1,$
+L’Arpège,Asian,Berlin,Europe,3.9,$$$
+Fasano,Modern,London,Europe,4.1,$$
+L’Arpège,Contemporary,Dubai,Middle East,4.4,$
+Pujol,Mediterranean,Caracas,South America,3.8,$
+Disfrutar,Fusion,Brisbane,Australia Pacific,4.7,$$
+Tetsuya's,Contemporary,Rio de Janeiro,South America,5,$$$
+Alain Ducasse,Modern,Brisbane,Australia Pacific,3.6,$$$$
+Disfrutar,Contemporary,Buenos Aires,South America,4.5,$$$$
+Mishiguene,French,Perth,Australia Pacific,3.5,$$$
+Brae,French,Cairo,Africa,4.5,$$$$
+Fyn,Vegan,Cape Town,Africa,3.6,$$$
+Tetsuya's,Fusion,Rio de Janeiro,South America,4.3,$
+Fasano,French,Cape Town,Africa,4.6,$
+Arzak,French,Mexico City,Central America,4.7,$$$$
+La Colombe,Seafood,Santiago,South America,3.6,$$$$
+Astrid y Gastón,Fusion,Cairo,Africa,4.8,$$$
+Test Kitchen,Modern,Johannesburg,Africa,4.1,$$
+Rafael,Seafood,Vienna,Europe,4.5,$
+Pujol,Contemporary,Perth,Australia Pacific,4,$$$
+Osteria Francescana,Vegan,Bogotá,South America,4.5,$$$$
+The Ledbury,Vegan,Istanbul,Middle East,4,$
+Fyn,Vegan,São Paulo,South America,4.4,$
+La Colombe,Contemporary,Marrakesh,Africa,3.9,$$$
+Test Kitchen,Contemporary,Cape Town,Africa,4.3,$
+Rafael,Vegan,Brisbane,Australia Pacific,4.3,$$$$
+Septime,Seafood,Johannesburg,Africa,4.1,$$
+Brae,Vegan,Bogotá,South America,4.2,$$$$
+Dinner by Heston Blumenthal,Mediterranean,Tel Aviv,Middle East,4.6,$
+El Celler de Can Roca,Modern,Istanbul,Middle East,3.6,$
+Narisawa,Seafood,Barcelona,Europe,3.8,$$
+Attica,Vegan,Perth,Australia Pacific,4.6,$$$
+Test Kitchen,Asian,Rome,Europe,4.5,$
+Steirereck,Mediterranean,São Paulo,South America,4,$
+Eleven Madison Park,Seafood,Lima,Central America,4,$$
+D.O.M.,Asian,Cairo,Africa,4.6,$$$
+Pujol,Modern,Cairo,Africa,4.3,$$$
+Mishiguene,Mediterranean,Istanbul,Middle East,4.6,$$
+Oro,Vegan,Auckland,Australia Pacific,3.9,$$$$
+L'Ambroisie,Mediterranean,Paris,Europe,4.9,$
+Test Kitchen,Mediterranean,Barcelona,Europe,5,$$
+Tegui,Mediterranean,Berlin,Europe,4.6,$$$$
+Brae,Modern,Caracas,South America,4.2,$$$$
+Pujol,Contemporary,Cape Town,Africa,4.7,$
+Tetsuya's,Modern,Caracas,South America,5,$
+Maní,Seafood,Bogotá,South America,4.4,$$$
+Odeon,Latin American,Berlin,Europe,4.9,$
+Core by Clare Smyth,Mediterranean,Marrakesh,Africa,3.7,$$$$
+Fyn,French,Brisbane,Australia Pacific,3.5,$$
+La Colombe,French,Melbourne,Australia Pacific,4.5,$$
+La Mar,Mediterranean,Rome,Europe,3.8,$$
+Test Kitchen,Latin American,Sydney,Australia Pacific,4.1,$$$
+L’Arpège,Asian,Mexico City,Central America,3.5,$
+L’Arpège,Modern,Lima,Central America,4.5,$
+Oro,Fusion,Marrakesh,Africa,5,$
+L’Arpège,Vegan,Cape Town,Africa,3.5,$$
+Central,Asian,Rome,Europe,3.6,$$$$
+Dinner by Heston Blumenthal,Latin American,Berlin,Europe,3.7,$$
+L'Ambroisie,Seafood,Cairo,Africa,4.3,$$$
+Test Kitchen,Modern,Mexico City,Central America,4.1,$$$$
+Boragó,Seafood,Paris,Europe,3.9,$$$
+Central,Vegan,Madrid,Europe,4.1,$$$
+Arzak,Mediterranean,Dubai,Middle East,4.6,$$$
+Maní,Seafood,Madrid,Europe,3.8,$
+Cosme,Asian,São Paulo,South America,4.7,$$$$
+Tegui,Modern,Madrid,Europe,4.5,$$$
+Central,Contemporary,Sydney,Australia Pacific,4.9,$
+Alain Ducasse,Mediterranean,Dubai,Middle East,3.7,$$$$
+Test Kitchen,Seafood,Auckland,Australia Pacific,4.3,$$
+L'Ambroisie,Modern,London,Europe,3.5,$
+Steirereck,Asian,Beirut,Middle East,4.9,$$$
+Fasano,Contemporary,Vienna,Europe,4,$$$$
+Narisawa,Mediterranean,Johannesburg,Africa,4.2,$
+Maido,Fusion,São Paulo,South America,3.9,$$$
+Boragó,Seafood,Marrakesh,Africa,5,$$$$
+Disfrutar,Latin American,Cape Town,Africa,4.6,$$$
+Septime,Latin American,Rome,Europe,4.2,$$$$
+The Ledbury,Seafood,Vienna,Europe,4.3,$$
+Core by Clare Smyth,Asian,Marrakesh,Africa,3.7,$$$
+El Celler de Can Roca,Contemporary,Buenos Aires,South America,4.6,$$
+Central,Contemporary,Beirut,Middle East,4,$
+Alain Ducasse,Fusion,Cape Town,Africa,3.6,$$$
+Maní,Modern,Caracas,South America,4.3,$$$
+Central,Contemporary,São Paulo,South America,4.1,$$
+Tegui,French,Melbourne,Australia Pacific,3.7,$$$$
+El Celler de Can Roca,Modern,Caracas,South America,3.6,$$$
+Odeon,French,London,Europe,4,$
+Septime,Vegan,Beirut,Middle East,4.3,$$
+Arzak,Modern,Barcelona,Europe,3.8,$$
+La Mar,Fusion,São Paulo,South America,4.1,$$$$
+Arzak,Asian,Caracas,South America,4.3,$$
+Septime,Seafood,London,Europe,4.3,$
+Mishiguene,Seafood,Lima,Central America,3.6,$$
+Rafael,Contemporary,Lima,Central America,4,$
+Odeon,French,Buenos Aires,South America,4.9,$$
+Test Kitchen,Seafood,Auckland,Australia Pacific,4.8,$$$
+Odeon,Fusion,São Paulo,South America,3.6,$$$$
+Narisawa,Mediterranean,Vienna,Europe,3.9,$$
+Test Kitchen,Mediterranean,London,Europe,4.7,$$
+Fasano,Seafood,Berlin,Europe,4.4,$
+Steirereck,Contemporary,Istanbul,Middle East,3.8,$$
+La Colombe,Modern,Madrid,Europe,3.9,$$
+Disfrutar,French,São Paulo,South America,4.6,$$$$
+Maní,French,Madrid,Europe,4.9,$$$$
+D.O.M.,French,Perth,Australia Pacific,3.8,$$
+Alain Ducasse,Modern,Johannesburg,Africa,3.6,$$
+L’Arpège,French,Johannesburg,Africa,4.3,$$$
+Boragó,Seafood,Istanbul,Middle East,4.6,$$
+Alain Ducasse,Seafood,Melbourne,Australia Pacific,4.7,$$$
+Odeon,Latin American,Cape Town,Africa,3.7,$$$
+Septime,Vegan,Madrid,Europe,4.8,$
+Azurmendi,Fusion,Beirut,Middle East,3.8,$$$
+Raan Jay Fai,Asian,Perth,Australia Pacific,4.1,$$$
+Maní,French,Barcelona,Europe,3.7,$$$
+Azurmendi,French,Lima,Central America,4.8,$$$
+Alain Ducasse,Fusion,Caracas,South America,4.5,$
+Alinea,Contemporary,Brisbane,Australia Pacific,4.3,$
+Eleven Madison Park,Mediterranean,Johannesburg,Africa,3.7,$$$$
+Tetsuya's,Vegan,Santiago,South America,4,$$
+Attica,Modern,Rio de Janeiro,South America,4.6,$$$$
+Mirazur,Mediterranean,Johannesburg,Africa,3.8,$$
+Odeon,Contemporary,Istanbul,Middle East,3.9,$
+Astrid y Gastón,Fusion,Barcelona,Europe,4.8,$$$
+Narisawa,Modern,Rio de Janeiro,South America,4.4,$$$
+The Ledbury,Vegan,Vienna,Europe,4.5,$
+Pujol,Latin American,Paris,Europe,4.5,$
+Fyn,Mediterranean,Johannesburg,Africa,4.3,$$$
+Maido,Mediterranean,Barcelona,Europe,4.9,$
+The Ledbury,Seafood,Rio de Janeiro,South America,4,$$$
+Brae,Vegan,Perth,Australia Pacific,4.1,$$
+Cosme,French,Lima,Central America,3.7,$
+Septime,Modern,Johannesburg,Africa,3.6,$$$
+Central,Modern,Sydney,Australia Pacific,4.2,$$
+Central,Modern,Marrakesh,Africa,4.2,$$$$
+Disfrutar,Fusion,Tel Aviv,Middle East,4.6,$$$$
+Alain Ducasse,Vegan,Sydney,Australia Pacific,4.9,$$$$
+L'Ambroisie,Modern,Lima,Central America,4.8,$$$
+Core by Clare Smyth,Asian,Rome,Europe,4.1,$$$$
+Raan Jay Fai,Seafood,Rio de Janeiro,South America,4.9,$
+The Ledbury,Fusion,Brisbane,Australia Pacific,4.6,$$
+L’Arpège,Fusion,Perth,Australia Pacific,5,$
+Fyn,Vegan,London,Europe,4.5,$$$
+Pujol,Seafood,Barcelona,Europe,4.3,$$$
+Disfrutar,Contemporary,Johannesburg,Africa,4,$$$$
+Core by Clare Smyth,Fusion,Cape Town,Africa,4.7,$$$$
+Astrid y Gastón,Contemporary,Marrakesh,Africa,4,$$
+Core by Clare Smyth,French,Barcelona,Europe,4.4,$
+Osteria Francescana,Asian,Buenos Aires,South America,4.6,$$
+Tetsuya's,Asian,Marrakesh,Africa,4.9,$$$
+Maido,French,Cairo,Africa,4.3,$$$$
+Central,Fusion,Marrakesh,Africa,4.9,$$
+La Mar,Mediterranean,Sydney,Australia Pacific,3.8,$$
+Astrid y Gastón,Vegan,Caracas,South America,4,$$
+Gaggan,Vegan,Mexico City,Central America,4.8,$$
+Eleven Madison Park,Asian,Perth,Australia Pacific,4.5,$$
+Maní,Vegan,Berlin,Europe,4.5,$$
+Alinea,Vegan,Madrid,Europe,4.7,$$
+Eleven Madison Park,Vegan,Dubai,Middle East,4.8,$
+Alain Ducasse,French,Marrakesh,Africa,5,$
+Azurmendi,Modern,Istanbul,Middle East,4.4,$$$
+Mirazur,Latin American,Lima,Central America,3.9,$$
+Tetsuya's,Seafood,Santiago,South America,4.3,$$$
+Mirazur,French,Barcelona,Europe,4.7,$$$
+Fasano,Seafood,Paris,Europe,4,$$
+Quay,French,Brisbane,Australia Pacific,4.6,$$
+Alinea,Asian,Buenos Aires,South America,4.2,$$
+Maní,Fusion,Sydney,Australia Pacific,4.3,$$
+El Celler de Can Roca,Contemporary,Beirut,Middle East,4,$$$
+El Celler de Can Roca,Asian,Bogotá,South America,4,$$$
+Maní,Seafood,Rio de Janeiro,South America,4.2,$$$$
+Narisawa,Asian,Lima,Central America,4,$$$$
+Boragó,Latin American,Auckland,Australia Pacific,4.7,$$$$
+Quay,Modern,Caracas,South America,4.5,$$$$
+Dinner by Heston Blumenthal,Seafood,Caracas,South America,3.7,$$
+Cosme,Fusion,Beirut,Middle East,4.9,$$
+La Colombe,Contemporary,Lima,Central America,3.7,$
+Raan Jay Fai,French,Cairo,Africa,4.1,$$
+Tetsuya's,Vegan,Cape Town,Africa,4.2,$$$$
+L’Arpège,Vegan,Caracas,South America,3.5,$$
+Arzak,Mediterranean,Madrid,Europe,4.1,$$$
+Core by Clare Smyth,Vegan,Tel Aviv,Middle East,3.9,$
+Dinner by Heston Blumenthal,Asian,Vienna,Europe,4.2,$
+Oro,Asian,Rio de Janeiro,South America,4.8,$$
+La Mar,Asian,Auckland,Australia Pacific,4.6,$
+Alain Ducasse,Mediterranean,Santiago,South America,3.7,$$$$
+Quay,Asian,Bogotá,South America,3.5,$$$$
+Boragó,Contemporary,Vienna,Europe,3.9,$
+Fyn,Latin American,Berlin,Europe,4.7,$
+Maido,Mediterranean,Santiago,South America,4.6,$$$$
+Brae,Asian,Perth,Australia Pacific,4.2,$$$$
+Attica,French,Sydney,Australia Pacific,4.6,$$$
+Maido,Latin American,São Paulo,South America,3.9,$$$$
+Quay,Fusion,Sydney,Australia Pacific,4.1,$
+Gaggan,French,Rio de Janeiro,South America,3.6,$$$$
+Narisawa,Contemporary,Buenos Aires,South America,4,$$

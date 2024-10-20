@@ -4,7 +4,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load the CSV file
-restaurants_df = pd.read_csv('/Users/jameskang/Desktop/Desktop - James’s MacBook Pro/VSC/v0/restaurants.csv')
+restaurants_df = pd.read_csv('DineSmart/restaurants.csv')
 
 @app.route('/')
 def index():
