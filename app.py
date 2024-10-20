@@ -3,6 +3,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
+
 # Load the CSV file
 restaurants_df = pd.read_csv('DineSmart/restaurants.csv')
 
@@ -14,9 +15,12 @@ restaurants_df['rating'] = pd.to_numeric(restaurants_df['rating'], errors='coerc
 
 # If necessary, handle NaN values (for example, replacing with a default value or dropping them)
 restaurants_df['rating'].fillna(0, inplace=True)  # Replace NaN ratings with 0
-
 @app.route('/')
 def index():
+    return render_template('home.html')
+
+@app.route('/project')
+def home():
     return render_template('index.html')
 
 @app.route('/recommend', methods=['POST'])

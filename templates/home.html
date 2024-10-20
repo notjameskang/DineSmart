@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Concierge</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5; /* Light background for contrast */
+        }
+        header {
+            background-color: #A50034; /* Marriott red color */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        .navbar {
+            margin-top: 10px;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 15px;
+            margin: 0 5px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .navbar a:hover {
+            background-color: #8b0030; /* Darker red for hover effect */
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #A50034; /* Marriott red color */
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #A50034; /* Marriott red color */
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        .dropdown {
+            margin: 15px 0;
+            cursor: pointer;
+            background-color: #A50034; /* Marriott red color */
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            width: 100%;
+            text-align: left;
+        }
+        .dropdown-content {
+            display: none;
+            border: 1px solid #A50034; /* Marriott red color */
+            border-radius: 5px;
+            margin-top: 5px;
+            background-color: white;
+            color: black;
+            padding: 10px;
+        }
+        img {
+            width: 100%;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>AI Concierge</h1>
+        <p>Your Personalized Food Recommendations</p>
+        <nav class="navbar">
+            <a href="/">Home</a>
+            <a href="/project">AI Concierge</a>
+        </nav>
+    </header>
+    <div class="container">
+        <h2>Welcome to AI Concierge</h2>
+        <img src="images/Hospitality.png" alt="Dining Experience" />
+        <p>At Marriott, we understand that every guest is unique, and that includes their culinary preferences. Our AI Concierge is designed to provide personalized food recommendations tailored to your tastes and dietary requirements.</p>
+        
+        <button class="dropdown" onclick="toggleDropdown('foodRecommendations')">Why Choose Personalized Food Recommendations?</button>
+        <div id="foodRecommendations" class="dropdown-content">
+            <ul>
+                <li><strong>Tailored Experience:</strong> Whether you’re vegan, gluten-free, or a meat lover, we cater to your specific dietary needs.</li>
+                <li><strong>Local Flavors:</strong> Discover the best local cuisine near your Marriott hotel, making your stay even more memorable.</li>
+                <li><strong>Convenience:</strong> Save time searching for places to eat; let our AI Concierge do the work for you!</li>
+            </ul>
+        </div>
+
+        <h2>Why Stay at a Marriott Hotel?</h2>
+        <img src="Marriott.jpg" alt="Marriott Hotel" />
+        <button class="dropdown" onclick="toggleDropdown('stayReasons')">Reasons to Choose Marriott</button>
+        <div id="stayReasons" class="dropdown-content">
+            <ul>
+                <li><strong>Exceptional Service:</strong> Experience hospitality that makes you feel at home, no matter where you are.</li>
+                <li><strong>Luxurious Accommodations:</strong> Enjoy comfortable rooms with modern amenities.</li>
+                <li><strong>Rewards Program:</strong> Join Marriott Bonvoy to earn points on every stay, redeemable for free nights and exclusive benefits.</li>
+            </ul>
+        </div>
+
+        <p>With our AI Concierge, dining is more than just a meal; it's a personalized experience that enhances your stay at Marriott. Book your stay today and let us take care of your culinary cravings!</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Marriott International, Inc.</p>
+    </footer>
+
+    <script>
+        function toggleDropdown(id) {
+            var content = document.getElementById(id);
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        }
+    </script>
+</body>
+</html>
