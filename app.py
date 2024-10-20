@@ -6,6 +6,15 @@ app = Flask(__name__)
 # Load the CSV file
 restaurants_df = pd.read_csv('DineSmart/restaurants.csv')
 
+# Clean the 'name' column
+restaurants_df['name'] = restaurants_df['name'].str.strip()  # Remove leading and trailing spaces
+
+# Convert the 'rating' column to numeric, forcing errors to NaN
+restaurants_df['rating'] = pd.to_numeric(restaurants_df['rating'], errors='coerce')
+
+# If necessary, handle NaN values (for example, replacing with a default value or dropping them)
+restaurants_df['rating'].fillna(0, inplace=True)  # Replace NaN ratings with 0
+
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -30,6 +39,9 @@ def recommend():
 
     if filtered_restaurants.empty:
         return jsonify({'message': 'No restaurants found'})
+    
+ # Format the price column to include the dollar sign
+    filtered_restaurants['price'] = '$' + filtered_restaurants['price'].astype(str)
 
     recommendations = filtered_restaurants.to_dict(orient='records')
     return jsonify(recommendations)

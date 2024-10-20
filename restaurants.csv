@@ -1,4 +1,4 @@
-Restaurant Name,cuisine,city,state,Rating,Price Range
+name,cuisine,city,state,rating,price
 Bistro L'Hermitage,Asian,Roanoke,Virginia,3.8,$$$
 Blue Talon Bistro,Vegan,Lynchburg,Virginia,4.1,$
 The Southern Inn,French,Alexandria,Virginia,4,$

@@ -25,8 +25,10 @@ document.getElementById('restaurantForm').addEventListener('submit', function (e
                 recommendationsList.innerHTML += `
                     <li>
                         <strong>${restaurant.name}</strong> - ${restaurant.cuisine}<br>
-                        ${restaurant.address}, ${restaurant.city}, ${restaurant.state} ${restaurant.zipcode}<br>
+                        ${restaurant.city}, ${restaurant.state}<br>
                         Rating: ${restaurant.rating}
+                        <br>
+                        Price Range: ${restaurant.price}
                     </li>
                 `;
             });
